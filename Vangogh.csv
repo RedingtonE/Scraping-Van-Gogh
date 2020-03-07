@@ -1,0 +1,855 @@
+,Image Path,Image Name,Origin,CL,F,JH
+0,http://www.vggallery.com/painting/p_0001.htm,['Still Life with Cabbage and Clogs'],"The Hague: Late November-mid December, 1881","Amsterdam, Van Gogh Museum",1,81
+1,http://www.vggallery.com/painting/p_0063.htm,"['Still Life with Earthenware, Bottle and Clogs']","The Hague: Late November-mid-December, 1881","Otterlo, Kröller-Müller Museum",63,920
+2,http://www.vggallery.com/painting/p_0062.htm,['Still Life with Yellow Straw Hat'],"The Hague: Late November-mid-December, 1881","Otterlo, Kröller-Müller Museum",62,922
+3,http://www.vggallery.com/painting/p_0002.htm,['Beach at Scheveningen in Calm Weather'],"The Hague: August, 1882","Winona, Minn.: Minnesota Marine Art Museum (long term loan)",2,173
+4,http://www.vggallery.com/painting/p_0004.htm,['View of the Sea at Scheveningen'],Scheveningen: 21 or 22 August 1882,"Amsterdam, Van Gogh Museum",4,187
+5,http://www.vggallery.com/painting/p_0204.htm,['Cluster of Old Houses with the New Church in The Hague'],"The Hague: August, 1882","Oosterbeek, Netherlands, Albricht Art Gallery",204,190
+6,http://www.vggallery.com/painting/p_0002a.htm,['Dunes'],"The Hague: August, 1882",Private collection,2a,176
+7,http://www.vggallery.com/painting/p_0003.htm,['Dunes with Figures'],"The Hague: August, 1882","Bern, private collection",3,186
+8,http://www.vggallery.com/painting/p_0192.htm,['Edge of a Wood'],"The Hague: August, 1882","Otterlo, Kröller-Müller Museum",192,184
+9,http://www.vggallery.com/painting/p_0013.htm,"['Girl in the Street, Two Coaches in the Background, A']","The Hague: August, 1882","Winterthur, Villa Flora",13,179
+10,http://www.vggallery.com/painting/p_0008a.htm,['Girl in the Woods'],"The Hague: August, 1882",Private collection,8a,180
+11,http://www.vggallery.com/painting/p_0008.htm,['Girl in White in the Woods'],"The Hague: August, 1882","Otterlo, Kröller-Müller Museum",8,182
+12,http://www.vggallery.com/painting/p_0012.htm,['Man Stooping with Stick or Spade'],"The Hague: August, 1882?","Izumi (Japan), Kuboso Memorial Museum of Arts",12,185
+13,http://www.vggallery.com/painting/p_1665.htm,['Two Women in the Woods'],"The Hague: August, 1882","Paris, private collection",1665,181
+14,http://www.vggallery.com/painting/p_0007.htm,['Women Mending Nets in the Dunes'],"The Hague: August, 1882",Private collection,7,178
+15,http://www.vggallery.com/painting/p_0186.htm,['Bulb Fields'],"The Hague: April, 1883","Washington, National Gallery of Art, Collection Mr. and Mrs. Paul Mellon",186,361
+16,http://www.vggallery.com/painting/p_0015.htm,['Cows in the Meadow'],"The Hague: August, 1883","Soumaya Museum, Mexico City",15,387
+17,http://www.vggallery.com/painting/p_0016.htm,['Farmhouses in Loosduinen near The Hague at Twilight'],"The Hague: August, 1883","Utrecht, Centraal Museum (on loan from the van Baaren Museum Foundation, Utrecht)",16,391
+18,http://www.vggallery.com/painting/p_0189.htm,['Footbridge across a Ditch'],"The Hague: August, 1883",Private collection,189,386
+19,http://www.vggallery.com/painting/p_0015a.htm,['Landscape with Dunes'],"The Hague: August, 1883",Private collection,15a,393
+20,http://www.vggallery.com/painting/p_0001b.htm,['Lying Cow'],"The Hague: August, 1883","Korea, private collection",1b,388
+21,http://www.vggallery.com/painting/p_0001c.htm,['Lying Cow'],"The Hague: August, 1883",Location unknown,1c,389
+22,http://www.vggallery.com/painting/pjh_0394.htm,['Marshy Landscape'],"The Hague: August, 1883",Private collection,n/a,394
+23,http://www.vggallery.com/painting/p_0009.htm,['Potato Digging (Five Figures)'],"The Hague: August, 1883","Hamburg, private collection",9,385
+24,http://www.vggallery.com/painting/p_0011.htm,"['Sower (study), The']","The Hague: August, 1883",Location unknown,11,392
+25,http://www.vggallery.com/painting/p_1666.htm,['Three Figures near a Canal with Windmill'],"The Hague: August (?), 1883",Location unknown,1666,383
+26,http://www.vggallery.com/painting/p_0010.htm,"['Wind-Beaten Tree, A']","The Hague: August, 1883",Location unknown,10,384
+27,http://www.vggallery.com/painting/p_0017.htm,['Cottages'],"Nieuw-Amsterdam: mid September-mid November, 1883","Amsterdam, Van Gogh Museum",17,395
+28,http://www.vggallery.com/painting/p_0018.htm,['Farmhouses Among Trees'],"The Hague: September, 1883","Warsaw, Museum Jana Pawla II",18,397
+29,http://www.vggallery.com/painting/p_0019.htm,['Two Women in the Moor'],"Nieuw-Amsterdam: October, 1883","Amsterdam, Van Gogh Museum",19,409
+30,http://www.vggallery.com/painting/p_0188.htm,['Landscape with a Church at Twilight'],"Drente: October, 1883",Private collection,188,413
+31,http://www.vggallery.com/painting/p_0021.htm,['Peat Boat with Two Figures'],"Drente: October, 1883","Assen, Drents Museum",21,415
+32,http://www.vggallery.com/painting/p_0020.htm,['Peasant Burning Weeds'],"Drente: October, 1883","Amsterdam, Van Gogh Museum / Assen, Drents Museum",20,417
+33,http://www.vggallery.com/painting/p_0022.htm,['Farm with Stacks of Peat'],"Nieuw-Amsterdam: mid November, 1883","Amsterdam, Van Gogh Museum",22,421
+34,http://www.vggallery.com/painting/p_0026.htm,['Weaver Facing Right (Half-Figure)'],"January, 1884","Berne, Collection H.R. Hahnloser",26,450
+35,http://www.vggallery.com/painting/p_0034.htm,"['Old Tower at Nuenen with a Ploughman, The']","February, 1884","Otterlo, Kröller-Müller Museum",34,459
+36,http://www.vggallery.com/painting/p_0162.htm,['Weaver Facing Right'],"February, 1884",Private collection,162,457
+37,http://www.vggallery.com/painting/p_0029.htm,['Weaver Facing Left with Spinning Wheel'],"March, 1884","Boston, Museum of Fine Arts",29,471
+38,http://www.vggallery.com/painting/p_0031.htm,['Landscape with Pollard Willows'],"April, 1884",Private collection,31,477
+39,http://www.vggallery.com/painting/p_0035.htm,['Weaver Arranging Threads'],"April-May, 1884","Otterlo, Kröller-Müller Museum",35,478
+40,http://www.vggallery.com/painting/p_0088.htm,"['Old Church Tower at Nuenen, The']","May, 1884","Zurich, Foundation E.G. Bührle",88,490
+41,http://www.vggallery.com/painting/p_0184.htm,"['Old Tower of Nuenen with People Walking, The']","May, 1884",Private collection,184,458
+42,http://www.vggallery.com/painting/p_0185.htm,"['Parsonage Garden at Nuenen, The']","May, 1884","Groningen, Groninger Museum voor Stad en Lande (on loan)",185,484
+43,http://www.vggallery.com/painting/p_0048a.htm,['Water Mill at Kollen Near Nuenen'],"May, 1884","Den Bosch, Noordbrabants Museum",48a,488
+44,http://www.vggallery.com/painting/p_0032.htm,['Weaver Arranging Threads'],"May, 1884",Private collection,32,480
+45,http://www.vggallery.com/painting/p_0030.htm,"['Weaver, Seen from the Front']","May, 1884","Otterlo, Kröller-Müller Museum",30,479
+46,http://www.vggallery.com/painting/p_0033.htm,['Weaver Standing in Front of a Loom'],"May, 1884","Paris, Private collection",33,489
+47,http://www.vggallery.com/painting/p_0039.htm,['Cart with Black Ox'],"July, 1884",Portland Art Museum,39,505
+48,http://www.vggallery.com/painting/p_0038.htm,['Cart with Red and White Ox'],"July, 1884","Otterlo, Kröller-Müller Museum",38,504
+49,http://www.vggallery.com/painting/p_0040.htm,"['Old Tower in the Fields, The']","July, 1884",Private collection,40,507
+50,http://www.vggallery.com/painting/p_0037.htm,"['Weaver, Interior with Three Small Windows']","July, 1884","Otterlo, Kröller-Müller Museum",37,501
+51,http://www.vggallery.com/painting/p_0024.htm,['Weaver Near an Open Window'],"July, 1884","Munich, Neue Pinakothek",24,500
+52,http://www.vggallery.com/painting/p_0027.htm,"['Weaver, Seen from the Front']","July, 1884","Rotterdam, Museum Boijmans-van Beuningen",27,503
+53,http://www.vggallery.com/painting/p_0190.htm,['Village at Sunset'],"Summer, 1884","Amsterdam, Rijksmuseum",190,492
+54,http://www.vggallery.com/painting/p_0041.htm,['Farmers Planting Potatoes'],"August-September, 1884","Otterlo, Kröller-Müller Museum",41,513
+55,http://www.vggallery.com/painting/p_0172.htm,['Potato Planting'],"September, 1884","Wuppertal, Von der Heydt-Museum",172,514
+56,http://www.vggallery.com/painting/p_0042.htm,['Shepherd with a Flock of Sheep'],"September, 1884","Mexico City, Soumaya Museum",42,517
+57,http://www.vggallery.com/painting/p_0043.htm,['Wood Gatherers in the Snow'],"September, 1884","Japan, Yoshino Gypsum Collection",43,516
+58,http://www.vggallery.com/painting/p_0123.htm,['Avenue of Poplars at Sunset'],"October, 1884","Otterlo, Kröller-Müller Museum",123,518
+59,http://www.vggallery.com/painting/p_0122.htm,['Avenue of Poplars in Autumn'],"Late October, 1884","Amsterdam, Van Gogh Museum",122,522
+60,http://www.vggallery.com/painting/p_0025.htm,['Congregation Leaving the Reformed Church in Nuenen'],"January-February, 1884 and Autumn, 1885","Amsterdam, Van Gogh Museum",25,521
+61,http://www.vggallery.com/painting/p_0120.htm,['Lane in Autumn'],"October, 1884","Fribourg, Private collection",120,519
+62,http://www.vggallery.com/painting/p_0076.htm,['Vase with Honesty'],"Autumn-Winter, 1884-85","Amsterdam, Van Gogh Museum",76,542
+63,http://www.vggallery.com/painting/p_0064.htm,['Still Life with Bottles and a Cowrie Shell'],"November, 1884",Den Bosch: Noordbrabants Museum,64,537
+64,http://www.vggallery.com/painting/p_0054.htm,['Still Life with Clogs and Pots'],"November, 1884","Utrecht, Centraal Museum (on loan from the van Baaren Museum Foundation, Utrecht)",54,536
+65,http://www.vggallery.com/painting/p_0052.htm,"['Still Life with Coffee Mill, Pipe Case and Jug']","November, 1884","Otterlo, Kröller-Müller Museum",52,535
+66,http://www.vggallery.com/painting/p_0056.htm,['Still Life with Five Bottles'],"November, 1884","Vienna, Österreichische Galerie Belvedere",56,530
+67,http://www.vggallery.com/painting/p_0050.htm,"['Still Life with Four Stone Bottles, Flask and White Cup']","November, 1884","Otterlo, Kröller-Müller Museum",50,529
+68,http://www.vggallery.com/painting/p_0060.htm,['Still Life with Paintbrushes in a Pot'],"November, 1884",United States: private collection,60,540
+69,http://www.vggallery.com/painting/p_0178r.htm,"['Still Life with Pots, Jar and Bottles']","November, 1884","The Hague, Kunstmuseum Den Haag",178r,528
+70,http://www.vggallery.com/painting/p_0057.htm,['Still Life with Pottery and Two Bottles'],"November, 1884","Pasadena (Cal.), Norton Simon Museum of Art",57,539
+71,http://www.vggallery.com/painting/p_0058.htm,"['Still Life with Pottery, Beer Glass and Bottle']","November, 1884","United States, private collection",58,531
+72,http://www.vggallery.com/painting/p_0061r.htm,['Still Life with Bottles and Earthenware'],"November-April, 1884-85","Amsterdam, Van Gogh Museum",61r,533
+73,http://www.vggallery.com/painting/p_0049.htm,['Beer Tankards'],"September-mid-October, 1885","Amsterdam, Van Gogh Museum",49,534
+74,http://www.vggallery.com/painting/p_0055.htm,['Still Life with Two Sacks and a Bottle'],"November, 1884",Private collection,55,532
+75,http://www.vggallery.com/painting/p_0177.htm,['Two Rats'],"November, 1884",Private collection,177,543
+76,http://www.vggallery.com/painting/p_0200.htm,['Vase with Dead Leaves'],"November, 1884",Private collection,200,541
+77,http://www.vggallery.com/painting/p_0125.htm,['Water Mill at Gennep'],"November, 1884","Madrid, Museo Thyssen-Bornemisza",125,525
+78,http://www.vggallery.com/painting/p_0048.htm,['Water Mill at Opwerten'],"November, 1884","London, Collection Mr. and Mrs. A.T. Smith",48,527
+79,http://www.vggallery.com/painting/p_0046.htm,['Water Mill at Gennep'],"November, 1884","Amersfoort, Netherlands Cultural Heritage Agency (on long term loan to the Noordbrabants Museum, Den Bosch)",46,524
+80,http://www.vggallery.com/painting/p_0160a.htm,['Head of a Peasant with Cap'],"December, 1884","Sydney, Art Gallery of New South Wales",160a,563
+81,http://www.vggallery.com/painting/p_0132.htm,['Head of a Peasant Woman'],"December, 1884",Private collection,132,574
+82,http://www.vggallery.com/painting/p_0136a.htm,['Head of a Peasant Woman with Dark Cap'],"December, 1884",Private collection,136a,548
+83,http://www.vggallery.com/painting/p_0156.htm,['Head of a Woman'],"November-January, 1884-85","Amsterdam, Van Gogh Museum",156,569
+84,http://www.vggallery.com/painting/p_0144.htm,['Head of a Peasant Woman with White Cap'],"December, 1884",Private collection,144,561
+85,http://www.vggallery.com/painting/p_0146a.htm,['Head of a Peasant Woman with White Cap'],"December, 1884",St. Louis: The Saint Louis Art Museum,146a,565
+86,http://www.vggallery.com/painting/p_0146.htm,['Head of an Old Peasant Woman with White Cap'],"December, 1884",Private collection,146,551
+87,http://www.vggallery.com/painting/p_0075.htm,['Head of an Old Peasant Woman with White Cap'],"December, 1884","Wuppertal, Von der Heydt-Museum",75,550
+88,http://www.vggallery.com/painting/p_0159.htm,['Head of a Woman'],"November-May, 1884-85","Amsterdam, Van Gogh Museum",159,None
+89,http://www.vggallery.com/painting/p_0143.htm,"['Peasant Woman, Seated with White Cap']","December, 1884","Morohashi Museum of Modern Art: Kita-Shiobara-Mura (Fukushima), Japan",143,546
+90,http://www.vggallery.com/painting/p_0080a.htm,['Head of a Woman'],"March, 1885","Amsterdam, Van Gogh Museum",80a,682
+91,http://www.vggallery.com/painting/p_0164.htm,['Head of a Man'],"November-January, 1884-85","Amsterdam, Van Gogh Museum",164,558
+92,http://www.vggallery.com/painting/p_0053.htm,['Still Life with Earthenware and Bottles'],"September-mid-October, 1885","Amsterdam, Van Gogh Museum",53,538
+93,http://www.vggallery.com/painting/p_0153.htm,['Head of a Brabant Peasant Woman with Dark Cap'],"January, 1885","Otterlo, Kröller-Müller Museum",153,587
+94,http://www.vggallery.com/painting/p_0169.htm,['Head of a Peasant with a Pipe'],"January, 1885","Otterlo, Kröller-Müller Museum",169,633
+95,http://www.vggallery.com/painting/p_0169a.htm,['Head of a Peasant with Cap'],"January, 1885",Collection Niarchos,169a,583
+96,http://www.vggallery.com/painting/p_0154.htm,['Head of a Peasant Woman with Brownish Cap'],"January, 1885","Otterlo, Kröller-Müller Museum",154,608
+97,http://www.vggallery.com/painting/p_0135.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885","Cincinnati, The Cincinnati Art Museum",135,585
+98,http://www.vggallery.com/painting/p_0153a.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885",Private collection,153a,586
+99,http://www.vggallery.com/painting/p_0151.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885","Otterlo, Kröller-Müller Museum",151,649
+100,http://www.vggallery.com/painting/p_0133.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885",Private collection,133,584
+101,http://www.vggallery.com/painting/p_1667.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885",Private collection,1667,629
+102,http://www.vggallery.com/painting/p_0137.htm,['Head of a Peasant Woman with Dark Cap'],"January, 1885",London: National Gallery,137,593
+103,http://www.vggallery.com/painting/p_0065.htm,['Head of a Peasant Woman with White Cap'],"January, 1885",Location unknown,65,627
+104,http://www.vggallery.com/painting/p_0087.htm,"['Old Cemetery Tower at Nuenen in the Snow, The']","January, 1885",Collection Niarchos,87,600
+105,http://www.vggallery.com/painting/p_0067a.htm,"['Old Station at Eindhoven, The']","January, 1885",Private collection,67a,602
+106,http://www.vggallery.com/painting/p_0067.htm,"['Parsonage Garden at Nuenen in the Snow, The']","January, 1885","Los Angeles, The Armand Hammer Museum of Art",67,604
+107,http://www.vggallery.com/painting/p_0194.htm,"['Parsonage Garden at Nuenen in the Snow, The']","January, 1885","Pasadena (Cal.), Norton Simon Museum of Art",194,603
+108,http://www.vggallery.com/painting/p_0138.htm,['Head of a Peasant Woman with Dark Cap'],"February, 1885","Haifa, Reuben and Edith Hecht Museum (University of Haifa)",138,644
+109,http://www.vggallery.com/painting/p_0171.htm,['Peasant Making a Basket'],"February, 1885","La-Chaux-de-Fonds (Switzerland), Musée des Beaux-Arts",171,658
+110,http://www.vggallery.com/painting/p_0171a.htm,['Peasant Making a Basket'],"February, 1885","Switzerland, private collection",171a,657
+111,http://www.vggallery.com/painting/p_0145.htm,['Peasant Woman Peeling Potatoes'],"February, 1885",Private collection,145,653
+112,http://www.vggallery.com/painting/p_0365r.htm,['Peasant Woman Peeling Potatoes'],"February, 1885","New York, The Metropolitan Museum of Art",365r,654
+113,http://www.vggallery.com/painting/p_0127.htm,"['Peasant Woman, Seated (Half-Figure)']","February, 1885",Private collection,127,651
+114,http://www.vggallery.com/painting/p_0126a.htm,['Peasant Woman Sewing'],"February, 1885","Euerbach, Collection Georg Schäfer",126a,655
+115,http://www.vggallery.com/painting/p_0077r.htm,"[""Study for 'The Potato Eaters'""]","Early April, 1885","Amsterdam, Van Gogh Museum",77r,686
+116,http://www.vggallery.com/painting/p_0168.htm,['Head of a Peasant'],"February-March, 1885","Otterlo, Kröller-Müller Museum",168,632
+117,http://www.vggallery.com/painting/p_0070a.htm,['Head of a Woman'],"March, 1885","Amsterdam, Van Gogh Museum",70a,716
+118,http://www.vggallery.com/painting/p_0074.htm,['Head of a Peasant Woman with Greenish Lace Cap'],"February-March, 1885","Otterlo, Kröller-Müller Museum",74,648
+119,http://www.vggallery.com/painting/p_0150.htm,['Head of a Young Peasant Woman with Dark Cap'],"February-March, 1885","Otterlo, Kröller-Müller Museum",150,650
+120,http://www.vggallery.com/painting/p_0036.htm,['Woman Winding Yarn'],"March, 1885","Amsterdam, Van Gogh Museum",36,698
+121,http://www.vggallery.com/painting/p_0071.htm,['Woman Sewing'],"March-April, 1885","Amsterdam, Van Gogh Museum",71,719
+122,http://www.vggallery.com/painting/p_0152.htm,['Peasant Woman Sweeping the Floor'],"February-March, 1885","Otterlo, Kröller-Müller Museum",152,656
+123,http://www.vggallery.com/painting/p_0072.htm,['Peasant Woman Taking her Meal'],"February-March, 1885","Otterlo, Kröller-Müller Museum",72,718
+124,http://www.vggallery.com/painting/p_1668.htm,"['Gordina de Groot, Head']","March, 1885","Zurich, Collection Mrs. A.M. Pierson",1668,691
+125,http://www.vggallery.com/painting/p_0134.htm,['Head of a Peasant Woman with Dark Cap'],"March, 1885","Paris, Musée d'Orsay",134,684
+126,http://www.vggallery.com/painting/p_0136.htm,['Head of a Peasant Woman with Dark Cap'],"March, 1885","Paris, Dufresne Art Gallery",136,683
+127,http://www.vggallery.com/painting/p_0130.htm,['Head of a Woman'],"March, 1885","Amsterdam, Van Gogh Museum",130,692
+128,http://www.vggallery.com/painting/p_0081.htm,['Head of a Peasant Woman with White Cap'],"March, 1885","Berne, Kunstmuseum Bern",81,695
+129,http://www.vggallery.com/painting/p_0085a.htm,['Head of a Peasant Woman with White Cap'],"March, 1885","Pasadena (Cal.), Norton Simon Museum of Art",85a,694
+130,http://www.vggallery.com/painting/p_0131.htm,['Head of a Peasant Woman with White Cap'],"March, 1885","Yoshiwa, Japan: Woodone Museum of Art",131,685
+131,http://www.vggallery.com/painting/p_0080.htm,['Head of a Peasant Woman with White Cap'],"March, 1885","Zurich, Foundation E.G. Bührle",80,681
+132,http://www.vggallery.com/painting/p_0163.htm,['Head of a Young Peasant in a Peaked Cap'],"March, 1885","Brussels, Musées Royaux des Beaux-Arts de Belgique",163,687
+133,http://www.vggallery.com/painting/p_0165.htm,['Head of a Young Peasant in a Peaked Cap'],"March, 1885","Kansas City (Mo.), The Nelson-Atkins Museum of Fine Art",165,688
+134,http://www.vggallery.com/painting/p_0157.htm,['Peasant Woman Darning Stockings'],"March, 1885",Private collection,157,712
+135,http://www.vggallery.com/painting/p_0073.htm,"['Peasant Woman Seated before an Open Door, Peeling Potatoes']","March, 1885",Private collection,73,717
+136,http://www.vggallery.com/painting/p_0144a.htm,"['Peasant Woman, Seated with White Cap']","March, 1885","Amersfoort, Netherlands Cultural Heritage Agency (on long term loan to the Noordbrabants Museum, Den Bosch)",144a,704
+137,http://www.vggallery.com/painting/p_0070.htm,"['Peasant Woman, Seen against the Window']","March, 1885","Oyamazaki-cho, Asahi Beer Oyamazaki Villa Museum of Art",70,715
+138,http://www.vggallery.com/painting/p_0128.htm,['Peasant Woman Standing Indoors'],"March, 1885","Belgrade, Narodni Muzej",128,697
+139,http://www.vggallery.com/painting/p_0149.htm,['Peasant Woman with Child on Her Lap'],"March, 1885",Private collection,149,690
+140,http://www.vggallery.com/painting/p_0069.htm,['Head of a Woman'],"March-May, 1885","Amsterdam, Van Gogh Museum",69,724
+141,http://www.vggallery.com/painting/p_0085.htm,['Head of a Peasant Woman with White Cap'],"March-April, 1885","Otterlo, Kröller-Müller Museum",85,693
+142,http://www.vggallery.com/painting/p_0175.htm,['Bobbin Winder'],"March-April, 1885","Amsterdam, Van Gogh Museum",175,497
+143,http://www.vggallery.com/painting/p_0167.htm,['Peasant Sitting at a Table'],"March-April, 1885","Otterlo, Kröller-Müller Museum",167,689
+144,http://www.vggallery.com/painting/p_0269r.htm,['Head of a Woman'],"March-May, 1885","Amsterdam, Van Gogh Museum",269r,725
+145,http://www.vggallery.com/painting/p_0160.htm,['Head of a Woman'],"March, 1885","Amsterdam, Van Gogh Museum",160,722
+146,http://www.vggallery.com/painting/p_0140.htm,['Head of a Peasant Woman with White Cap'],"April, 1885","Edinburgh, National Gallery of Scotland",140,745
+147,http://www.vggallery.com/painting/p_0191.htm,['Landscape at Dusk'],"April, 1885","Madrid, Museo Thyssen-Bornemisza",191,762
+148,http://www.vggallery.com/painting/p_0079.htm,['Landscape at Sunset'],"April, 1885","Switzerland, private collection",79,763
+149,http://www.vggallery.com/painting/p_0129a.htm,['Peasant and Peasant Woman Planting Potatoes'],"April, 1885","Zurich, Kunsthaus Zurich",129a,727
+150,http://www.vggallery.com/painting/p_0082.htm,"['Potato Eaters, The']","April, 1885","Amsterdam, Van Gogh Museum",82,764
+151,http://www.vggallery.com/painting/p_0078.htm,"['Potato Eaters, The']","April, 1885","Otterlo, Kröller-Müller Museum",78,734
+152,http://www.vggallery.com/painting/p_0117.htm,['Still Life with Bible'],"October, 1885","Amsterdam, Van Gogh Museum",117,946
+153,http://www.vggallery.com/painting/p_0202.htm,['Still Life with Copper Coffeepot and Two White Bowls'],"April, 1885","Paris, private collection",202,738
+154,http://www.vggallery.com/painting/p_0066.htm,['Two Hands'],"April, 1885",Private collection,66,743
+155,http://www.vggallery.com/painting/p_0083.htm,"['Cottage, The']","Mid-May, 1885","Amsterdam, Van Gogh Museum",83,777
+156,http://www.vggallery.com/painting/p_0141.htm,"['Gordina de Groot, Head']","May, 1885","Santa Barbara, California, Collection Mrs. M.C.R. Taylor",141,783
+157,http://www.vggallery.com/painting/p_0086.htm,['Head of a Peasant Woman'],"May, 1885","Otterlo, Kröller-Müller Museum",86,785
+158,http://www.vggallery.com/painting/p_0155.htm,['Head of a Peasant Woman in a Green Shawl'],"May, 1885","Lyon, Musee des Beaux-Arts",155,787
+159,http://www.vggallery.com/painting/p_0388r.htm,['Head of a Woman'],"May, 1885","Amsterdam, Van Gogh Museum",388r,782
+160,http://www.vggallery.com/painting/p_0084.htm,"[""Old Church Tower at Nuenen ('The Peasants' Churchyard')""]","Late May-early June, 1885","Amsterdam, Van Gogh Museum",84,772
+161,http://www.vggallery.com/painting/p_0179r.htm,['Head of a Man'],"March-May, 1885","Amsterdam, Van Gogh Museum",179r,786
+162,http://www.vggallery.com/painting/p_0161.htm,['Woman with a Mourning Shawl'],"March-May, 1885","Amsterdam, Van Gogh Museum",161,788
+163,http://www.vggallery.com/painting/p_0091.htm,['Cottage'],"June, 1885","Houston, private collection",91,809
+164,http://www.vggallery.com/painting/p_0089.htm,['Cottage with Peasant Woman Digging'],"June, 1885","Tokyo, Tokyo Fuji Art Museum",89,803
+165,http://www.vggallery.com/painting/p_0092.htm,['Cottage with Trees'],"June, 1885",Private collection,92,810
+166,http://www.vggallery.com/painting/p_0092a.htm,['Cottage with Trees'],"June, 1885",Private collection,92a,806
+167,http://www.vggallery.com/painting/p_0093.htm,['Cottage with Trees'],"June, 1885",Cologne: Wallraf-Richartz-Museum,93,805
+168,http://www.vggallery.com/painting/p_0187.htm,['Cottage with Trees and Peasant Woman'],"June, 1885",Private collection,187,808
+169,http://www.vggallery.com/painting/p_0176.htm,['Peasant Woman by the Fireplace'],"June, 1885","New York, The Metropolitan Museum of Art",176,799
+170,http://www.vggallery.com/painting/p_0158.htm,['Peasant Woman by the Fireplace'],"June, 1885","Paris, Musée d'Orsay",158,792
+171,http://www.vggallery.com/painting/p_0126.htm,['Peasant Woman Sitting on a Chair'],"June, 1885","United States, private collection",126,800
+172,http://www.vggallery.com/painting/p_0142.htm,['Peasant Woman Digging in Front of Her Cottage'],"June, 1885","Chicago, The Art Institute of Chicago",142,807
+173,http://www.vggallery.com/painting/p_jh_add23.htm,['Cottage'],"June-July, 1885",Private collection,None,Add. 23
+174,http://www.vggallery.com/painting/p_0090.htm,['Cottage and Woman with Goat'],"June-July, 1885","Frankfurt am Main, Stadelsches Kunstinstitut und Stadrische Galerie",90,823
+175,http://www.vggallery.com/painting/p_1669.htm,['Cottage with Decrepit Barn and Stooping Woman'],"July, 1885",Private collection,1669,825
+176,http://www.vggallery.com/painting/p_0170.htm,['Cottage with Peasant Coming Home'],"July, 1885","Mexico City, Soumaya Museum",170,824
+177,http://www.vggallery.com/painting/p_0096.htm,['Two Peasant Women Digging'],"July, 1885",Private collection,96,878
+178,http://www.vggallery.com/painting/p_0166.htm,['Peasant Digging'],"July-August, 1885","Otterlo, Kröller-Müller Museum",166,850
+179,http://www.vggallery.com/painting/p_0094.htm,['Peasant Woman Digging'],"July-August, 1885","Den Bosch, Noordbrabants Museum",94,893
+180,http://www.vggallery.com/painting/p_0095a.htm,['Peasant Woman Digging'],"August, 1885","Birmingham, Barber Institute of Fine Arts, University of Birmingham",95a,899
+181,http://www.vggallery.com/painting/p_0147.htm,['Woman Lifting Potatoes'],"Late July-August, 1885","Amsterdam, Van Gogh Museum",147,891
+182,http://www.vggallery.com/painting/p_0098.htm,['Peasant Woman Digging Up Potatoes'],"August, 1885","Antwerp, Koninklijk Museum voor Schone Kunsten",98,901
+183,http://www.vggallery.com/painting/p_0148.htm,['Peasant Woman Laundering'],"August, 1885","Takayama, Japan: Hikaru Museum",148,908
+184,http://www.vggallery.com/painting/p_0139.htm,['Peasant Woman Raking'],"August, 1885","Japan, private collection",139,905
+185,http://www.vggallery.com/painting/p_0193.htm,['Sheaves of Wheat in a Field'],"August, 1885","Otterlo, Kröller-Müller Museum",193,914
+186,http://www.vggallery.com/painting/p_0097.htm,['Two Peasant Women Digging Potatoes'],"August, 1885","Otterlo, Kröller-Müller Museum",97,876
+187,http://www.vggallery.com/painting/p_0115.htm,['Still Life with a Basket of Apples'],"September, 1885",Private collection,115,935
+188,http://www.vggallery.com/painting/p_0100.htm,['Basket of Potatoes'],"September, 1885","Amsterdam, Van Gogh Museum",100,931
+189,http://www.vggallery.com/painting/p_0116.htm,['Basket of Potatoes'],"September, 1885","Amsterdam, Van Gogh Museum",116,934
+190,http://www.vggallery.com/painting/p_0102.htm,"['Still Life with a Basket of Potatoes, Surrounded by Autumn Leaves and Vegetables']","September, 1885","Liege (Belgium), private collection",102,937
+191,http://www.vggallery.com/painting/p_0105.htm,['Still Life with an Earthen Bowl and Pears'],"September, 1885","Utrecht, Centraal Museum (on loan from the van Baaren Museum Foundation, Utrecht)",105,926
+192,http://www.vggallery.com/painting/p_0101.htm,['Basket of Apples'],"September, 1885","Amsterdam, Van Gogh Museum",101,927
+193,http://www.vggallery.com/painting/p_0099.htm,['Basket of Apples'],"September, 1885","Amsterdam, Van Gogh Museum",99,930
+194,http://www.vggallery.com/painting/p_0051.htm,['Still Life with Brass Cauldron and Jug'],"September, 1885","Amsterdam, Van Gogh Museum",51,925
+195,http://www.vggallery.com/painting/p_0104.htm,['Still Life with Ginger Jar and Apples'],"September, 1885","United States, private collection",104,923
+196,http://www.vggallery.com/painting/p_0104a.htm,['Still Life with Ginger Jar and Onions'],"September, 1885","Hamilton, McMaster Museum of Art",104a,924
+197,http://www.vggallery.com/painting/p_0107.htm,['Baskets of Potatoes'],"September, 1885","Amsterdam, Van Gogh Museum",107,933
+198,http://www.vggallery.com/painting/p_0059.htm,['Still Life with Two Jars and Two Pumpkins'],"September, 1885","Switzerland, private collection",59,921
+199,http://www.vggallery.com/painting/p_0103.htm,['Still Life with Vegetables and Fruit'],"September, 1885","Amsterdam, Van Gogh Museum",103,928
+200,http://www.vggallery.com/painting/p_0106.htm,['Still Life with a Basket of Apples and Two Pumpkins'],"September-October, 1885","Otterlo, Kröller-Müller Museum",106,936
+201,http://www.vggallery.com/painting/p_0111.htm,"[""Still Life with Birds' Nests""]","Late September-early October, 1885 and 1886-87","Amsterdam, Van Gogh Museum",111,939
+202,http://www.vggallery.com/painting/p_0112.htm,"[""Still Life with Three Birds' Nests""]","September-October, 1885","Otterlo, Kröller-Müller Museum",112,938
+203,http://www.vggallery.com/painting/p_0109r.htm,"[""Still Life with Birds' Nests""]","Late September-early October, 1885","Amsterdam, Van Gogh Museum",109r,942
+204,http://www.vggallery.com/painting/p_0119.htm,['Autumn Landscape'],"October, 1885","Cambridge (England), Fitzwilliam Museum",119,949
+205,http://www.vggallery.com/painting/p_0191a.htm,['Country Lane with Two Figures'],"October, 1885",Private collection,191a,950
+206,http://www.vggallery.com/painting/p_0182.htm,"['Vicarage at Nuenen, The']","September-early October, 1885","Amsterdam, Van Gogh Museum",182,948
+207,http://www.vggallery.com/painting/p_0108.htm,"[""Still Life with Three Birds' Nests""]","October, 1885","Otterlo, Kröller-Müller Museum",108,940
+208,http://www.vggallery.com/painting/p_0110.htm,"[""Still Life with Three Birds' Nests""]","October, 1885","The Hague, Kunstmuseum Den Haag (on loan from the Wibbina Foundation)",110,941
+209,http://www.vggallery.com/painting/p_0210.htm,['View of a Town with Drawbridge'],"October, 1885",Private collection,210,947
+210,http://www.vggallery.com/painting/p_0113.htm,['View of Amsterdam from Central Station'],"October, 1885","Amsterdam, P. and N. de Boer Foundation",113,944
+211,http://www.vggallery.com/painting/p_0211.htm,"['De Ruijterkade in Amsterdam, The']",Amsterdam: 8 October 1885,"Amsterdam, Van Gogh Museum",211,973
+212,http://www.vggallery.com/painting/p_0121.htm,['Autumn Landscape at Dusk'],"October-November, 1885","Utrecht, Centraal Museum",121,956
+213,http://www.vggallery.com/painting/p_0044.htm,['Autumn Landscape with Four Trees'],"November, 1885","Otterlo, Kröller-Müller Museum",44,962
+214,http://www.vggallery.com/painting/p_0196.htm,['Landscape with Windblown Trees'],"November, 1885",Private collection,196,957
+215,http://www.vggallery.com/painting/p_0045.htm,['Lane with Poplars'],"November, 1885","Rotterdam, Museum Boijmans-van Beuningen",45,959
+216,http://www.vggallery.com/painting/p_0183.htm,"['Parsonage at Nuenen by Moonlight, The']","November, 1885",Private collection,183,952
+217,http://www.vggallery.com/painting/p_0124.htm,"['Parsonage Garden at Nuenen with Pond and Figures, The']","November, 1885",Destroyed by fire in Rotterdam during the Second World War,124,955
+218,http://www.vggallery.com/painting/p_0195.htm,"['Willow, The']","November, 1885","Den Bosch, Netherlands, F. van Lanschot Bankiers NV",195,961
+219,http://www.vggallery.com/painting/p_0177a.htm,['Flying Fox'],"Late October-late November, 1885","Amsterdam, Van Gogh Museum",177a,1192
+220,http://www.vggallery.com/painting/p_0260.htm,['Backyards of Old Houses in Antwerp in the Snow'],"December, 1885","Amsterdam, Van Gogh Museum",260,970
+221,http://www.vggallery.com/painting/p_0206.htm,['Head of a Woman with her Hair Loose'],"December, 1885","Amsterdam, Van Gogh Museum",206,972
+222,http://www.vggallery.com/painting/p_0174.htm,['Head of an Old Woman with White Cap (The Midwife)'],"December, 1885","Amsterdam, Van Gogh Museum",174,978
+223,http://www.vggallery.com/painting/p_0205.htm,['Portrait of an Old Man with Beard'],"December, 1885","Amsterdam, Van Gogh Museum",205,971
+224,http://www.vggallery.com/painting/p_0207.htm,['Portrait of a Woman with Red Ribbon'],"December, 1885","New York, Collection Alfred Wyler",207,979
+225,http://www.vggallery.com/painting/p_0207a.htm,['Portrait of Woman in Blue'],"December, 1885","Amsterdam, Van Gogh Museum",207a,1204
+226,http://www.vggallery.com/painting/p_0212.htm,['Skull with Burning Cigarette'],"Winter, 1885-86","Amsterdam, Van Gogh Museum",212,999
+227,http://www.vggallery.com/painting/p_0278.htm,['Still Life with Meadow Flowers and Roses'],1886-87,"Otterlo, Kröller-Müller Museum",278,1103
+228,http://www.vggallery.com/painting/p_jh_add01.htm,['Bowl with Daffodils'],1886,Private collection,None,Add. 1
+229,http://www.vggallery.com/painting/pb_0002.htm,['Le Blute-Fin Mill'],Paris: 1886,"Zwolle (Netherlands), Museum de Fundatie",None,None
+230,http://www.vggallery.com/painting/p_0215d.htm,['Portrait of a Woman Seated'],1886,"Amsterdam, Van Gogh Museum",215d,None
+231,http://www.vggallery.com/painting/p_0215c.htm,['Portrait of a Woman with Hat'],1886,"Amsterdam, Van Gogh Museum",215c,None
+232,http://www.vggallery.com/painting/p_jh_add20.htm,['Flowers in a Blue Vase'],1886-87,Private collection,None,Add. 20
+233,http://www.vggallery.com/painting/pb_0001.htm,['Vase with Flowers'],1886-87,Private collection,None,None
+234,http://www.vggallery.com/painting/p_0331.htm,"['Pair of Shoes, A']",First half 1886,"Amsterdam, Van Gogh Museum",331,1235
+235,http://www.vggallery.com/painting/p_0215b.htm,"['Portrait of a Woman, Facing Right']","First half, 1886","Amsterdam, Van Gogh Museum",215b,1205
+236,http://www.vggallery.com/painting/p_0214.htm,['Fritillaries'],"Spring, 1886",Location unknown,214,1092
+237,http://www.vggallery.com/painting/p_0199.htm,['Glass with Hellebores'],"Spring, 1886",Private collection,199,1091
+238,http://www.vggallery.com/painting/p_0215.htm,"['Nude Study of a Little Girl, Seated']","Spring, 1886","Amsterdam, Van Gogh Museum",215,1045
+239,http://www.vggallery.com/painting/p_0216a.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216a,1054
+240,http://www.vggallery.com/painting/p_0216b.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216b,1060
+241,http://www.vggallery.com/painting/p_0216d.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216d,1071
+242,http://www.vggallery.com/painting/p_0216g.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216g,1055
+243,http://www.vggallery.com/painting/p_0216h.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216h,1058
+244,http://www.vggallery.com/painting/p_0216i.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216i,1072
+245,http://www.vggallery.com/painting/p_0216j.htm,['Plaster Statuette of a Female Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216j,1059
+246,http://www.vggallery.com/painting/p_0216c.htm,['Plaster Statuette of a Horse'],"Spring, 1886","Amsterdam, Van Gogh Museum",216c,1082
+247,http://www.vggallery.com/painting/p_0216f.htm,['Plaster Statuette of a Kneeling Man'],"Spring, 1886","Amsterdam, Van Gogh Museum",216f,1076
+248,http://www.vggallery.com/painting/p_0216e.htm,['Plaster Statuette of a Male Torso'],"Spring, 1886","Amsterdam, Van Gogh Museum",216e,1078
+249,http://www.vggallery.com/painting/p_0208a.htm,['Self-Portrait with Dark Felt Hat'],"Spring, 1886","Amsterdam, Van Gogh Museum",208a,1089
+250,http://www.vggallery.com/painting/p_0181.htm,['Self-Portrait with Dark Felt Hat at the Easel'],"Spring, 1886","Amsterdam, Van Gogh Museum",181,1090
+251,http://www.vggallery.com/painting/p_0180.htm,['Self-Portrait with Pipe'],"Spring, 1886","Amsterdam, Van Gogh Museum",180,1194
+252,http://www.vggallery.com/painting/p_0208.htm,['Self-Portrait with Pipe'],"Spring, 1886","Amsterdam, Van Gogh Museum",208,1195
+253,http://www.vggallery.com/painting/p_0232.htm,['Sloping Path in Montmartre'],"Spring, 1886","Amsterdam, Van Gogh Museum",232,1113
+254,http://www.vggallery.com/painting/p_0666.htm,['Still Life with Scabiosa and Ranunculus'],"Spring, 1886",Private collection,666,1094
+255,http://www.vggallery.com/painting/p_0244.htm,['Tambourine with Pansies'],"Spring, 1886","Amsterdam, Van Gogh Museum",244,1093
+256,http://www.vggallery.com/painting/p_0265.htm,['View of Paris from near Montmartre'],"Spring, 1886","Dublin, National Gallery of Ireland",265,1100
+257,http://www.vggallery.com/painting/p_0231.htm,['View of Roofs and Backs of Houses'],"Spring, 1886","Amsterdam, Van Gogh Museum",231,1099
+258,http://www.vggallery.com/painting/p_0221.htm,"['Pont du Carrousel and the Louvre, The']","June, 1886","Copenhagen, Ny Carlsberg Glyptotek",221,1109
+259,http://www.vggallery.com/painting/p_0243a.htm,['Vase with Myosotis and Peonies'],"June, 1886","Amsterdam, Van Gogh Museum",243a,1106
+260,http://www.vggallery.com/painting/p_0223.htm,['Lane at the Jardin du Luxembourg'],"June-July, 1886","Williamstown (Mass.), Sterling and Francine Clark Art Institute",223,1111
+261,http://www.vggallery.com/painting/p_0282.htm,['Cineraria in a Flowerpot'],"July-August, 1886","Rotterdam, Museum Boijmans-van Beuningen",282,1165
+262,http://www.vggallery.com/painting/p_0028.htm,"['Kingfisher, The']","Second half, 1886","Amsterdam, Van Gogh Museum",28,1191
+263,http://www.vggallery.com/painting/p_0255.htm,"['Pair of Shoes, A']",Second half 1886,"Amsterdam, Van Gogh Museum",255,1124
+264,http://www.vggallery.com/painting/p_0225.htm,"['Bois de Boulogne with People Walking, The']","Summer, 1886","Zeist (Netherlands), Van Vlissingen Art Foundation",225,1110
+265,http://www.vggallery.com/painting/p_0217.htm,['Bowl with Chrysanthemums'],"Summer, 1886",Monte Carlo Art SA,217,1164
+266,http://www.vggallery.com/painting/p_0224.htm,"['Bois de Boulogne with People Walking, The']","Summer, 1886","Zurich, Private collection",224,1112
+267,http://www.vggallery.com/painting/p_0281.htm,['Coleus Plant in a Flowerpot'],"Summer, 1886","Amsterdam, Van Gogh Museum",281,1143
+268,http://www.vggallery.com/painting/p_0222.htm,"['Fourteenth of July Celebration in Paris, The']","Summer, 1886","Winterthur, Villa Flora",222,1108
+269,http://www.vggallery.com/painting/p_0201.htm,['Geranium in a Flowerpot'],"Summer, 1886",Private collection,201,1139
+270,http://www.vggallery.com/painting/p_0198.htm,['Ginger Jar Filled with Chrysanthemums'],"Summer, 1886",Private collection,198,1125
+271,http://www.vggallery.com/painting/p_0218.htm,['Glass with Roses'],"Summer, 1886","Amsterdam, Van Gogh Museum",218,1144
+272,http://www.vggallery.com/painting/p_0273.htm,['Le Moulin de Blute-Fin'],"Summer, 1886","Tokyo, Artizon Museum",273,1116
+273,http://www.vggallery.com/painting/p_0274.htm,['Le Moulin de la Galette'],"Summer, 1886","Glasgow, Glasgow Art Gallery and Museum",274,1115
+274,http://www.vggallery.com/painting/p_0283.htm,['Still Life with Bloaters'],"Summer, 1886","Basle, Kunstmuseum (on loan from Staechelin Foundation)",283,1120
+275,http://www.vggallery.com/painting/p_0203.htm,['Still Life with Bloaters'],"Summer, 1886","Otterlo, Kröller-Müller Museum",203,1123
+276,http://www.vggallery.com/painting/p_1670.htm,"['Still Life with Meat, Vegetables and Pottery']","Summer, 1886","New York, J. Lipchitz",1670,1119
+277,http://www.vggallery.com/painting/p_1671.htm,"['Still Life with Two Herrings, a Cloth and a Glass']","Summer, 1886","United States, Collection Scharenguival",1671,1122
+278,http://www.vggallery.com/painting/p_1672.htm,"['Twilight, before the Storm: Montmartre']","Summer, 1886","France, Collection G. Darrieutort",1672,1114
+279,http://www.vggallery.com/painting/p_0286.htm,"['Vase with Asters, Salvia and Other Flowers']","Summer, 1886","The Hague, Kunstmuseum Den Haag",286,1127
+280,http://www.vggallery.com/painting/p_0245.htm,['Vase with Carnations'],"Summer, 1886","Amsterdam, Stedelijk Museum",245,1145
+281,http://www.vggallery.com/painting/p_0220.htm,['Vase with Carnations'],"Summer, 1886","Rotterdam, Museum Boijmans van Beuningen",220,1138
+282,http://www.vggallery.com/painting/p_0243.htm,['Vase with Carnations'],"Summer, 1886","Detroit, The Detroit Institute of Arts",243,1129
+283,http://www.vggallery.com/painting/p_0596.htm,['Vase with Carnations and Other Flowers'],"Summer, 1886","Washington, D.C., Kreeger Museum",596,1135
+284,http://www.vggallery.com/painting/p_0259.htm,['Vase with Carnations and Zinnias'],"Summer, 1886",Private collection,259,1132
+285,http://www.vggallery.com/painting/p_0197.htm,['Vase with Daisies'],"Summer, 1886","Philadelphia, The Philadelphia Museum of Art",197,1167
+286,http://www.vggallery.com/painting/p_0242.htm,['Vase with Gladioli and Carnations'],"Summer, 1886",Private collection,242,1147
+287,http://www.vggallery.com/painting/p_0237.htm,['Vase with Gladioli and Carnations'],"Summer, 1886","Rotterdam, Museum Boymans-van Beuningen",237,1131
+288,http://www.vggallery.com/painting/p_0286a.htm,['Vase with Gladioli and Lilac'],"Summer, 1886",Private collection,286a,1128
+289,http://www.vggallery.com/painting/p_0666a.htm,['Vase with Peonies'],"Summer, 1886",Private collection,666a,1107
+290,http://www.vggallery.com/painting/p_0248b.htm,['Vase with Red Gladioli'],"Summer, 1886","Vevey (Switzerland), Musée Jenisch (on long term loan to the Granet Museum in Aix-en-Provence)",248b,1150
+291,http://www.vggallery.com/painting/p_0247.htm,['Vase with Red Gladioli'],"Summer, 1886",Private collection,247,1149
+292,http://www.vggallery.com/painting/p_0248.htm,['Vase with Red Gladioli'],"Summer, 1886",Private collection,248,1146
+293,http://www.vggallery.com/painting/p_0279.htm,['Vase with Red Poppies'],"Summer, 1886","Hartford (Conn.), Wadsworth Atheneum",279,1104
+294,http://www.vggallery.com/painting/p_0324a.htm,['Vase with Viscaria'],"Summer, 1886","Cairo, Mohamed Mahmoud Khalil Museum",324a,1137
+295,http://www.vggallery.com/painting/p_0236.htm,['Vase with White and Red Carnations'],"Summer, 1886",Private collection,236,1130
+296,http://www.vggallery.com/painting/p_0252.htm,['Vase with Zinnias'],"Summer, 1886","Washington, D.C., Kreeger Museum",252,1140
+297,http://www.vggallery.com/painting/p_0241.htm,['Vase with Zinnias and Geraniums'],"Summer, 1886","Ottawa, National Gallery of Canada",241,1134
+298,http://www.vggallery.com/painting/p_0251.htm,['Vase with Zinnias and Other Flowers'],"Summer, 1886","Ottawa, National Gallery of Canada",251,1142
+299,http://www.vggallery.com/painting/p_0258.htm,['White Vase with Roses and Other Flowers'],"Summer, 1886","Japan, Yoshino Gypsum Collection",258,1141
+300,http://www.vggallery.com/painting/p_0234.htm,['Vase with Asters and Phlox'],"Late Summer, 1886","Amsterdam, Van Gogh Museum",234,1168
+301,http://www.vggallery.com/painting/p_0248a.htm,['Vase with Gladioli'],"Late Summer, 1886","Amsterdam, Van Gogh Museum",248a,1148
+302,http://www.vggallery.com/painting/p_0262.htm,['View of Paris from Montmartre'],"Late Summer, 1886","Basle, Offentliche Kunstsammlung, Kunstmuseum Basel",262,1102
+303,http://www.vggallery.com/painting/p_0261.htm,['View of the Roofs of Paris'],"Late Summer, 1886","Amsterdam, Van Gogh Museum",261,1101
+304,http://www.vggallery.com/painting/p_0250.htm,"['Bowl with Sunflowers, Roses and Other Flowers']","August-September, 1886","Mannheim, Kunsthalle Mannheim",250,1166
+305,http://www.vggallery.com/painting/p_0235.htm,['Vase with Hollyhocks'],"August-September, 1886","Zurich, Kunsthaus Zurich",235,1136
+306,http://www.vggallery.com/painting/p_0238.htm,['Terrace of a Cafe on Montmartre (La Guinguette)'],"October, 1886","Paris, Musée d'Orsay",238,1178
+307,http://www.vggallery.com/painting/p_jh_add02.htm,"['Bois de Boulogne with People Walking, The']","Autumn, 1886",Private collection,None,Add. 2
+308,http://www.vggallery.com/painting/p_0249.htm,['Bowl with Peonies and Roses'],"Autumn, 1886","Otterlo, Kröller-Müller Museum",249,1105
+309,http://www.vggallery.com/painting/p_0226.htm,['Le Moulin de la Galette'],"Autumn, 1886","Baden, Stiftung Langmatt (Museum)",226,1172
+310,http://www.vggallery.com/painting/p_0228.htm,['Le Moulin de la Galette'],"Autumn, 1886","Berlin, Nationalgalerie SMPK",228,1171
+311,http://www.vggallery.com/painting/p_0348.htm,['Le Moulin de la Galette'],"Autumn, 1886","Buenos Aires, Museo Nacional de Bellas Artes",348,1182
+312,http://www.vggallery.com/painting/p_0349.htm,['Le Moulin de la Galette'],"Autumn, 1886",Private collection,349,1184
+313,http://www.vggallery.com/painting/p_0227.htm,['Le Moulin de la Galette'],"Autumn, 1886","Otterlo, Kröller-Müller Museum",227,1170
+314,http://www.vggallery.com/painting/p_0272.htm,['Montmartre'],"Autumn, 1886","Chicago, The Art Institute of Chicago",272,1183
+315,http://www.vggallery.com/painting/p_0229.htm,"['Montmartre: Quarry, the Mills']","Autumn, 1886","Amsterdam, Van Gogh Museum",229,1176
+316,http://www.vggallery.com/painting/p_0230.htm,"['Hill of Montmartre with Quarry, The']","Autumn, 1886","Amsterdam, Van Gogh Museum",230,1177
+317,http://www.vggallery.com/painting/p_0264.htm,['Outskirts of Paris'],"Autumn, 1886",Private collection,264,1179
+318,http://www.vggallery.com/painting/p_0178v.htm,['Self-Portrait'],"Autumn, 1886","The Hague, Kunstmuseum Den Haag",178v,1198
+319,http://www.vggallery.com/painting/p_0256.htm,['Still Life with Mussels and Shrimps'],"Autumn, 1886","Amsterdam, Van Gogh Museum",256,1169
+320,http://www.vggallery.com/painting/p_0266.htm,['View of Montmartre with Windmills'],"Autumn, 1886","Otterlo, Kröller-Müller Museum",266,1175
+321,http://www.vggallery.com/painting/p_0271.htm,['Windmill on Montmartre'],"Autumn, 1886",Destroyed by fire in 1967,271,1186
+322,http://www.vggallery.com/painting/p_0332.htm,['Three Pairs of Shoes'],"December, 1886","Cambridge (Mass.), Fogg Art Museum, Harvard University",332,1234
+323,http://www.vggallery.com/painting/p_0288.htm,['Portrait of a Man with a Moustache'],"Winter, 1886/87",Location unknown,288,1200
+324,http://www.vggallery.com/painting/p_0289.htm,['Portrait of a Man with a Skull Cap'],"Winter, 1886/87 (or 1887/88?)","Amsterdam, Van Gogh Museum",289,1203
+325,http://www.vggallery.com/painting/p_0357.htm,['Portrait of a Woman (Madame Tanguy?)'],"Winter, 1886/87","Basle, Kunstmuseum Basel, on loan from the Rudolf Staechelin Family Foundation",357,1216
+326,http://www.vggallery.com/painting/p_0263.htm,['Portrait of Père Tanguy'],"Winter, 1886/87","Copenhagen, Ny Carlsberg Glyptotek",263,1202
+327,http://www.vggallery.com/painting/p_0364.htm,['Portrait of Père Tanguy'],"Winter, 1887/88",Collection Niarchos,364,1352
+328,http://www.vggallery.com/painting/p_0270.htm,"['Portrait of the Art Dealer Alexander Reid, Sitting in an Easy Chair']","Winter, 1886/87","Norman, Oklahoma--Fred Jones Jr. Museum of Art (University of Oklahoma)",270,1207
+329,http://www.vggallery.com/painting/p_0295.htm,['Self-Portrait with Grey Felt Hat'],"Winter, 1886/87","Amsterdam, Rijksmuseum",295,1211
+330,http://www.vggallery.com/painting/p_0330.htm,['Nude Woman on a Bed'],Early 1887,"Philadelphia, The Barnes Foundation",330,1214
+331,http://www.vggallery.com/painting/p_0329.htm,['Nude Woman Reclining'],Early 1887,"Otterlo, Kröller-Müller Museum",329,1215
+332,http://www.vggallery.com/painting/p_0328.htm,"['Nude Woman Reclining, Seen from the Back']",Early 1887,"Paris, private collection",328,1212
+333,http://www.vggallery.com/painting/p_0333.htm,"['Pair of Shoes, A']",Early 1887,"Baltimore, The Baltimore Museum of Art, The Cone Collection",333,1236
+334,http://www.vggallery.com/painting/p_0263a.htm,['Self-Portrait with Pipe and Glass'],Early 1887,"Amsterdam, Van Gogh Museum",263a,1199
+335,http://www.vggallery.com/painting/p_0266a.htm,['Factories Seen from a Hillside in Moonlight'],"First half, 1887","Amsterdam, Van Gogh Museum",266a,1223
+336,http://www.vggallery.com/painting/p_0370.htm,['Agostina Segatori Sitting in the Cafe du Tambourin'],"February-March, 1887","Amsterdam, Van Gogh Museum",370,1208
+337,http://www.vggallery.com/painting/p_0292.htm,['Boulevard de Clichy'],"February-March, 1887","Amsterdam, Van Gogh Museum",292,1219
+338,http://www.vggallery.com/painting/p_0347.htm,['Street Scene in Montmartre: Le Moulin a Poivre'],"February-March, 1887","Amsterdam, Van Gogh Museum",347,1241
+339,http://www.vggallery.com/painting/p_0346.htm,['Vegetable Garden in Montmartre'],"February-March, 1887","Amsterdam, Van Gogh Museum",346,1244
+340,http://www.vggallery.com/painting/p_0348a.htm,['Le Moulin de la Galette'],"March, 1887","Pittsburgh, Carnegie Museum of Art",348a,1221
+341,http://www.vggallery.com/painting/p_0336.htm,['Basket of Sprouting Bulbs'],"March-April, 1887","Amsterdam, Van Gogh Museum",336,1227
+342,http://www.vggallery.com/painting/p_0337.htm,['Flowerpot with Chives'],"March-April, 1887","Amsterdam, Van Gogh Museum",337,1229
+343,http://www.vggallery.com/painting/p_0296.htm,['Self-Portrait with Grey Felt Hat'],"March-April, 1887","Amsterdam, Van Gogh Museum",296,1210
+344,http://www.vggallery.com/painting/p_0294.htm,['Self-Portrait or Portrait of Theo van Gogh'],"March-April, 1887","Amsterdam, Van Gogh Museum",294,1209
+345,http://www.vggallery.com/painting/p_0334.htm,['Still Life with a Basket of Crocuses'],"March-April, 1887","Amsterdam, Van Gogh Museum",334,1228
+346,http://www.vggallery.com/painting/p_0118.htm,['Still Life with an Earthen Bowl and Potatoes'],c. 1886,"Rotterdam, Museum Boijmans-van Beuningen (on loan)",118,932
+347,http://www.vggallery.com/painting/pb_0004.htm,['Still Life with Fruit and Chestnuts'],"Autumn, 1886","San Francisco, Fine Arts Museums of San Francisco",None,None
+348,http://www.vggallery.com/painting/p_0335.htm,['Still Life with Three Books'],"March-April, 1887","Amsterdam, Van Gogh Museum",335,1226
+349,http://www.vggallery.com/painting/p_0338.htm,['Still Life with Lemons on a Plate'],"March-April, 1887","Amsterdam, Van Gogh Museum",338,1237
+350,http://www.vggallery.com/painting/p_0213.htm,['Fritillaries in a Copper Vase'],"April-May, 1887","Paris, Musée d'Orsay",213,1247
+351,http://www.vggallery.com/painting/p_0353.htm,"['Banks of the Seine with Boats, The']","Spring, 1887",Private collection,353,1271
+352,http://www.vggallery.com/painting/p_0310a.htm,['Edge of a Wheatfield with Poppies'],"Spring, 1887","Denver, Denver Art Museum",310a,1273
+353,http://www.vggallery.com/painting/p_0305.htm,"[""Entrance of Voyer d'Argenson Park at Asnières""]","Spring, 1887","Jerusalem, Israel Museum (on permanent loan from the State of Israel)",305,1265
+354,http://www.vggallery.com/painting/p_0354.htm,['Fishing in Spring'],"Spring, 1887","Chicago, The Art Institute of Chicago",354,1270
+355,http://www.vggallery.com/painting/p_0276.htm,"[""Lane in Voyer d'Argenson Park at Asnieres""]","Spring, 1887","New Haven (Conn.), Yale University Art Gallery",276,1259
+356,http://www.vggallery.com/painting/p_0351.htm,['On the Outskirts of Paris'],"Spring, 1887",Private collection,351,1255
+357,http://www.vggallery.com/painting/p_0332a.htm,"['Pair of Shoes, A']","Spring, 1887",Private collection,332a,1233
+358,http://www.vggallery.com/painting/p_0583.htm,['Pasture in Bloom'],"Spring, 1887","Otterlo, Kröller-Müller Museum",583,1263
+359,http://www.vggallery.com/painting/p_0343.htm,['Portrait of the Art Dealer Alexander Reid'],"Spring, 1887","Glasgow, Glasgow Art Gallery and Museum",343,1250
+360,http://www.vggallery.com/painting/p_0312.htm,"['Restaurant de la Sirène at Asnières, The']","Spring, 1887","Oxford, Ashmolean Museum",312,1253
+361,http://www.vggallery.com/painting/p_0239.htm,['Roadway with Underpass (The Viaduct)'],"Spring, 1887","New York, The Solomon R. Guggenheim Museum, Justin K. Thannhauser Collection",239,1267
+362,http://www.vggallery.com/painting/p_0298.htm,"['Seine with a Rowing Boat, The']","Spring, 1887","Paris, private collection",298,1257
+363,http://www.vggallery.com/painting/p_0345.htm,['Self-Portrait'],"Spring, 1887","Chicago, The Art Institute of Chicago",345,1249
+364,http://www.vggallery.com/painting/p_0380.htm,['Self-Portrait'],"Spring, 1887","Otterlo, Kröller-Müller Museum",380,1225
+365,http://www.vggallery.com/painting/p_0339.htm,['Still Life with Absinthe'],"Spring, 1887","Amsterdam, Van Gogh Museum",339,1238
+366,http://www.vggallery.com/painting/p_0283b.htm,['Still Life with Bloaters and Garlic'],"Spring, 1887","Tokyo, Artizon Museum",283b,1230
+367,http://www.vggallery.com/painting/p_0340.htm,['Still Life with Decanter and Lemons on a Plate'],"Spring, 1887","Amsterdam, Van Gogh Museum",340,1239
+368,http://www.vggallery.com/painting/pjh_1240.htm,['Street Scene in Montmartre'],"Spring, 1887","Copenhagen, Private collection",None,1240
+369,http://www.vggallery.com/painting/p_0300.htm,['View of a River with Rowing Boats'],"Spring, 1887",Private collection,300,1275
+370,http://www.vggallery.com/painting/p_0341.htm,"[""View of Paris from Vincent's Room in the Rue Lepic""]","Spring, 1887","Amsterdam, Van Gogh Museum",341,1242
+371,http://www.vggallery.com/painting/p_0341a.htm,"[""View of Paris from Vincent's Room in the Rue Lepic""]","Spring, 1887",Private collection,341a,1243
+372,http://www.vggallery.com/painting/p_0369.htm,['Woman Sitting by a Cradle'],"Spring, 1887","Amsterdam, Van Gogh Museum",369,1206
+373,http://www.vggallery.com/painting/p_0367.htm,['Woman Sitting in the Grass'],"Spring, 1887","New York, private collection",367,1261
+374,http://www.vggallery.com/painting/p_0267.htm,['Self-Portrait'],"Spring-Summer, 1887","Amsterdam, Van Gogh Museum",267,1224
+375,http://www.vggallery.com/painting/p_0356.htm,['Self-Portrait'],"Spring-Summer, 1887","Amsterdam, Van Gogh Museum",356,1248
+376,http://www.vggallery.com/painting/p_0270a.htm,['Chestnut Tree in Blossom'],"May, 1887","Amsterdam, Van Gogh Museum",270a,1272
+377,http://www.vggallery.com/painting/p_0293.htm,"['Banks of the Seine, The']","May-June, 1887","Amsterdam, Van Gogh Museum",293,1269
+378,http://www.vggallery.com/painting/p_0352.htm,['Banks of the Seine with Pont de Clichy in the Spring'],"June, 1887","Dallas, Dallas Museum of Art",352,1321
+379,http://www.vggallery.com/painting/p_0388v.htm,['Garden with Sunflowers'],"June, 1887","Amsterdam, Van Gogh Museum",388v,1307
+380,http://www.vggallery.com/painting/p_0264a.htm,['Montmartre Path with Sunflowers'],"June, 1887","San Francisco, Legion of Honor Museum",264a,1306
+381,http://www.vggallery.com/painting/p_0309.htm,['Path in the Woods'],"June, 1887","Amsterdam, Van Gogh Museum",309,1315
+382,http://www.vggallery.com/painting/p_0314.htm,"[""Couples in the Voyer d'Argenson Park at Asnieres""]","June-July, 1887","Amsterdam, Van Gogh Museum",314,1258
+383,http://www.vggallery.com/painting/p_0342.htm,['Interior of a Restaurant'],"June-July, 1887","Otterlo, Kröller-Müller Museum",342,1256
+384,http://www.vggallery.com/painting/p_0275.htm,"[""Lane in Voyer d'Argenson Park at Asnieres""]","June-July, 1887","Amsterdam, Van Gogh Museum",275,1278
+385,http://www.vggallery.com/painting/p_0361.htm,['Outskirts of Paris: Road with Peasant Shouldering a Spade'],"June-July, 1887","Private collection, Japan",361,1260
+386,http://www.vggallery.com/painting/p_0350.htm,['Vegetable Gardens in Montmartre: La Butte Montmartre'],"June-July, 1887","Amsterdam, Stedelijk Museum",350,1245
+387,http://www.vggallery.com/painting/p_0299.htm,['Walk Along the Banks of the Seine Near Asnieres'],"June-July, 1887","Amsterdam, Van Gogh Museum",299,1254
+388,http://www.vggallery.com/painting/p_0368.htm,"['Woman Walking in a Garden, A']","June-July, 1887",Private collection,368,1262
+389,http://www.vggallery.com/painting/p_0277.htm,"[""Avenue in Voyer d'Argenson Park at Asnieres""]","Summer, 1887",Private collection,277,1316
+390,http://www.vggallery.com/painting/p_0302.htm,['Banks of the Seine with the Pont de Clichy'],"Summer, 1887",Collection Niarchos,302,1322
+391,http://www.vggallery.com/painting/p_0311.htm,['Bathing Float on the Seine at Asnieres'],"Summer, 1887","Richmond (Va.), Virginia Museum of Fine Arts, Collection of Mr. and Mrs. Paul Mellon",311,1325
+392,http://www.vggallery.com/painting/p_0301.htm,['Bridges across the Seine at Asnieres'],"Summer, 1887","Zurich, Foundation E.G. Bührle",301,1327
+393,http://www.vggallery.com/painting/p_0315.htm,"[""Corner of Voyer d'Argenson Park at Asnieres""]","Summer, 1887",Private collection,315,1320
+394,http://www.vggallery.com/painting/p_0321.htm,['Exterior of a Restaurant at Asnieres'],"Summer, 1887","Amsterdam, Van Gogh Museum",321,1311
+395,http://www.vggallery.com/painting/p_0317.htm,['Factories at Asnieres Seen from the Quai de Clichy'],"Summer, 1887","St. Louis, The Saint Louis Art Museum",317,1287
+396,http://www.vggallery.com/painting/p_0318.htm,"['Factory at Asnieres, The']","Summer, 1887","Philadelphia, The Barnes Foundation",318,1288
+397,http://www.vggallery.com/painting/p_0810.htm,['House with Sunflowers'],"Summer, 1887","United States, private collection",810,2109
+398,http://www.vggallery.com/painting/p_0286b.htm,['Lilacs'],"Summer, 1887",Private collection,286b,1294
+399,http://www.vggallery.com/painting/p_0313.htm,['Restaurant de la Sirène at Asnières'],"Summer, 1887","Paris, Musée d'Orsay",313,1251
+400,http://www.vggallery.com/painting/p_0355.htm,"['Rispal Restaurant at Asnières, The']","Summer, 1887","Kansas City, Nelson-Atkins Museum of Fine Art",355,1266
+401,http://www.vggallery.com/painting/p_0240.htm,"['Seine Bridge at Asnieres, The']","Summer, 1887","U.S.A., private collection",240,1268
+402,http://www.vggallery.com/painting/p_0303.htm,"['Seine with the Pont de Clichy, The']","Summer, 1887",Private collection,303,1323
+403,http://www.vggallery.com/painting/p_0304.htm,"['Seine with the Pont de la Grande Jette, The']","Summer, 1887","Amsterdam, Van Gogh Museum",304,1326
+404,http://www.vggallery.com/painting/p_0269v.htm,['Self-Portrait'],"Summer, 1887","Amsterdam, Van Gogh Museum",269v,1301
+405,http://www.vggallery.com/painting/p_0109v.htm,['Self-Portrait'],"Summer, 1887","Amsterdam, Van Gogh Museum",109v,1303
+406,http://www.vggallery.com/painting/p_0077v.htm,['Self-Portrait'],"Summer, 1887","Amsterdam, Van Gogh Museum",77v,1304
+407,http://www.vggallery.com/painting/p_0268.htm,['Self-Portrait'],"Summer, 1887","Hartford (Conn.), Wadsworth Atheneum",268,1299
+408,http://www.vggallery.com/painting/p_0061v.htm,['Self-Portrait with Straw Hat'],"Summer, 1887","Amsterdam, Van Gogh Museum",61v,1302
+409,http://www.vggallery.com/painting/p_0469.htm,['Self-Portrait with Straw Hat'],"Summer, 1887","Amsterdam, Van Gogh Museum",469,1310
+410,http://www.vggallery.com/painting/p_0526.htm,['Self-Portrait with Straw Hat'],"Summer, 1887","Detroit, The Detroit Institute of Arts",526,1309
+411,http://www.vggallery.com/painting/p_0179v.htm,['Self-Portrait with Straw Hat and Pipe'],"Summer, 1887","Amsterdam, Van Gogh Museum",179v,1300
+412,http://www.vggallery.com/painting/p_0307.htm,['Trees and Undergrowth'],"Summer, 1887","Amsterdam, Van Gogh Museum",307,1318
+413,http://www.vggallery.com/painting/p_0309a.htm,['Trees and Undergrowth'],"Summer, 1887","Amsterdam, Van Gogh Museum",309a,1312
+414,http://www.vggallery.com/painting/p_0291.htm,['Trees in a Field on a Sunny Day'],"Summer, 1887","Amsterdam, P. and N. de Boer Foundation",291,1314
+415,http://www.vggallery.com/painting/p_0308.htm,['Undergrowth'],"Summer, 1887","Amsterdam, Van Gogh Museum",308,1313
+416,http://www.vggallery.com/painting/p_0306.htm,['Undergrowth'],"Summer, 1887","Utrecht, Centraal Museum (on loan from the Van Baaren Museum Foundation, Utrecht)",306,1317
+417,http://www.vggallery.com/painting/p_0324.htm,['Vase with Cornflowers and Poppies'],"Summer, 1887",Netherlands: Triton Foundation,324,1293
+418,http://www.vggallery.com/painting/p_0323.htm,['Vase with Daisies and Anemones'],"Summer, 1887","Otterlo, Kröller-Müller Museum",323,1295
+419,http://www.vggallery.com/painting/p_0322.htm,"['Vase with Lilacs, Daisies and Anemones']","Summer, 1887","Geneva, Musée d'Art et d'Histoire",322,1292
+420,http://www.vggallery.com/painting/p_0316.htm,['Vegetable Gardens at Montmartre'],"Summer, 1887","Amsterdam, Van Gogh Museum",316,1246
+421,http://www.vggallery.com/painting/p_0310.htm,['Wheat Field with a Lark'],"Summer, 1887","Amsterdam, Van Gogh Museum",310,1274
+422,http://www.vggallery.com/painting/p_0452.htm,['Four Cut Sunflowers'],"August-September, 1887","Otterlo, Kröller-Müller Museum",452,1330
+423,http://www.vggallery.com/painting/p_0377.htm,['Two Cut Sunflowers'],"August-September, 1887","Amsterdam, Van Gogh Museum",377,1328
+424,http://www.vggallery.com/painting/p_0376.htm,['Two Cut Sunflowers'],"August-September, 1887","Berne, Kunstmuseum Bern",376,1331
+425,http://www.vggallery.com/painting/p_0375.htm,['Two Cut Sunflowers'],"August-September, 1887","New York, The Metropolitan Museum of Art",375,1329
+426,http://www.vggallery.com/painting/p_0372.htm,['Japonaiserie: Bridge in the Rain (after Hiroshige)'],"September-October, 1887","Amsterdam, Van Gogh Museum",372,1297
+427,http://www.vggallery.com/painting/p_0371.htm,['Japonaiserie: Flowering Plum Tree (after Hiroshige)'],"September-October, 1887","Amsterdam, Van Gogh Museum",371,1296
+428,http://www.vggallery.com/painting/p_0373.htm,['Japonaiserie: Oiran (after Kesaï Eisen)'],"September-October, 1887","Amsterdam, Van Gogh Museum",373,1298
+429,http://www.vggallery.com/painting/p_0588.htm,['Chrysanthemums and Wild Flowers in a Vase'],"Autumn, 1887","New York, The Metropolitan Museum of Art",588,1335
+430,http://www.vggallery.com/painting/p_0363.htm,['Portrait of Père Tanguy'],"Autumn, 1887","Paris, Musée Rodin",363,1351
+431,http://www.vggallery.com/painting/p_0320.htm,['Self-Portrait'],"Autumn, 1887","Paris, Musée d'Orsay",320,1334
+432,http://www.vggallery.com/painting/p_0378.htm,['Still Life with Basket of Apples (to Lucien Pissarro)'],"Autumn, 1887","Otterlo, Kröller-Müller Museum",378,1340
+433,http://www.vggallery.com/painting/p_0359.htm,['Still Life with French Novels and a Rose'],"Autumn, 1887",Private collection,359,1332
+434,http://www.vggallery.com/painting/p_0603.htm,['Still Life with Grapes'],"Autumn, 1887","Amsterdam, Van Gogh Museum",603,1336
+435,http://www.vggallery.com/painting/p_0382.htm,"['Still Life with Apples, Pears, Lemons and Grapes']","Autumn, 1887","Chicago, The Art Institute of Chicago",382,1337
+436,http://www.vggallery.com/painting/p_0383.htm,"['Still Life with Grapes, Pears and Lemons']","Autumn, 1887","Amsterdam, Van Gogh Museum",383,1339
+437,http://www.vggallery.com/painting/p_0374.htm,['Still Life with Red Cabbages and Onions'],"Autumn, 1887","Amsterdam, Van Gogh Museum",374,1338
+438,http://www.vggallery.com/painting/p_0254.htm,['Still Life with Apples'],"Autumn-Winter, 1887/88","Amsterdam, Van Gogh Museum",254,1342
+439,http://www.vggallery.com/painting/p_0379.htm,['Still Life with Basket of Apples'],"Autumn-Winter, 1887/88","St. Louis, The Saint Louis Art Museum, Gift of Sydney M. Shoenberg, Sr.",379,1341
+440,http://www.vggallery.com/painting/p_0381.htm,['Italian Woman (Agostina Segatori?)'],"December, 1887","Paris, Musée d'Orsay",381,1355
+441,http://www.vggallery.com/painting/p_0319.htm,['Self-Portrait with a Japanese Print'],"December, 1887","Basle, Offentliche Kunstsammlung, Kunstmuseum Basel (on loan from the Emily Dreyfus Foundation)",319,1333
+442,http://www.vggallery.com/painting/p_0360.htm,"['Still Life with Plaster Statuette, a Rose and Two Novels']","December, 1887","Otterlo, Kröller-Müller Museum",360,1349
+443,http://www.vggallery.com/painting/p_0216.htm,['Plaster Statuette of a Female Torso'],"Winter, 1887/88","Komaki (Japan), Menard Art Museum",216,1348
+444,http://www.vggallery.com/painting/p_0366.htm,['Self-Portrait'],"Winter, 1887/88","Zurich, Foundation E.G. Bührle",366,1345
+445,http://www.vggallery.com/painting/p_0344.htm,['Self-Portrait with Grey Felt Hat'],"Winter, 1887/88","Amsterdam, Van Gogh Museum",344,1353
+446,http://www.vggallery.com/painting/p_0365v.htm,['Self-Portrait with Straw Hat'],"Winter, 1887/88","New York, The Metropolitan Museum of Art",365v,1354
+447,http://www.vggallery.com/painting/p_0297.htm,['Skull'],"Winter, 1887/88","Amsterdam, Van Gogh Museum",297,1346
+448,http://www.vggallery.com/painting/p_0297a.htm,['Skull'],"Winter, 1887/88","Amsterdam, Van Gogh Museum",297a,1347
+449,http://www.vggallery.com/painting/p_0602.htm,['Still Life with Quince Pears'],"Winter, 1887/88","Dresden, Gemaldegalerie Neue Meister",602,1343
+450,http://www.vggallery.com/painting/p_0522.htm,['Self-Portrait in Front of the Easel'],Early 1888,"Amsterdam, Van Gogh Museum",522,1356
+451,http://www.vggallery.com/painting/p_0290.htm,['Landscape with Snow'],"February, 1888","New York, The Solomon R. Guggenheim Museum, Justin K. Thannhauser Collection",290,1360
+452,http://www.vggallery.com/painting/p_0390.htm,"['Old Woman of Arles, An']","February, 1888","Amsterdam, Van Gogh Museum",390,1357
+453,http://www.vggallery.com/painting/p_0389.htm,"[""Pork-Butcher's Shop Seen from a Window, A""]","February, 1888","Amsterdam, Van Gogh Museum",389,1359
+454,http://www.vggallery.com/painting/p_0391.htm,['Snowy Landscape with Arles in the Background'],"February, 1888","London, private collection",391,1358
+455,http://www.vggallery.com/painting/p_0392.htm,['Blossoming Almond Branch in a Glass'],"Early March, 1888","Amsterdam, Van Gogh Museum",392,1361
+456,http://www.vggallery.com/painting/p_0393.htm,['Blossoming Almond Branch in a Glass with a Book'],"Early March, 1888","Japan, private collection",393,1362
+457,http://www.vggallery.com/painting/p_0398.htm,['Avenue of Plane Trees near Arles Station'],"March, 1888","Paris, Musée Rodin",398,1366
+458,http://www.vggallery.com/painting/p_0396.htm,"['Gleize Bridge over the Vigueirat Canal, The']","March, 1888","Hakone, Pola Museum of Art",396,1367
+459,http://www.vggallery.com/painting/p_0400.htm,"['Langlois Bridge at Arles with Road Alongside the Canal, The']","March, 1888","Amsterdam, Van Gogh Museum",400,1371
+460,http://www.vggallery.com/painting/p_0397.htm,"['Langlois Bridge at Arles with Women Washing, The']","March, 1888","Otterlo, Kröller-Müller Museum",397,1368
+461,http://www.vggallery.com/painting/p_0555.htm,['Orchard with Blossoming Apricot Trees'],"March, 1888","Amsterdam, Van Gogh Museum",555,1380
+462,http://www.vggallery.com/painting/p_0607.htm,"['Pair of Leather Clogs, A']","March, 1888","Amsterdam, Van Gogh Museum",607,1364
+463,http://www.vggallery.com/painting/p_0394.htm,['Pink Peach Tree in Blossom (Reminiscence of Mauve)'],"March, 1888","Otterlo, Kröller-Müller Museum",394,1379
+464,http://www.vggallery.com/painting/p_0395.htm,['Still Life with Basket and Six Oranges'],"March, 1888",Private collection,395,1363
+465,http://www.vggallery.com/painting/p_0386.htm,['Still Life: Potatoes in a Yellow Dish'],"March, 1888","Otterlo, Kröller-Müller Museum",386,1365
+466,http://www.vggallery.com/painting/p_0544.htm,['Two Lovers (Fragment)'],"March, 1888",Private collection,544,1369
+467,http://www.vggallery.com/painting/p_0552.htm,['Orchard in Blossom'],"March-April, 1888","New York, The Metropolitan Museum of Art",552,1381
+468,http://www.vggallery.com/painting/p_0557.htm,['Almond Tree in Blossom'],"April, 1888","Amsterdam, Van Gogh Museum",557,1397
+469,http://www.vggallery.com/painting/p_0399.htm,['Apricot Trees in Blossom'],"April, 1888","Johannesburg, Collection Continental Art Holdings, Ltd.",399,1398
+470,http://www.vggallery.com/painting/p_0556.htm,['Apricot Trees in Blossom'],"April, 1888",Private collection,556,1383
+471,http://www.vggallery.com/painting/p_0405.htm,['Blossoming Pear Tree'],"April, 1888","Amsterdam, Van Gogh Museum",405,1394
+472,http://www.vggallery.com/painting/p_0571.htm,"['Langlois Bridge at Arles, The']","April, 1888","Paris, Private collection",571,1392
+473,http://www.vggallery.com/painting/p_0511.htm,['Orchard in Blossom'],"April, 1888","Amsterdam, Van Gogh Museum",511,1386
+474,http://www.vggallery.com/painting/p_0406.htm,['Orchard in Blossom'],"April, 1888","Switzerland, private collection",406,1399
+475,http://www.vggallery.com/painting/p_0553.htm,['Orchard in Blossom (Plum Trees)'],"April, 1888","Edinburgh, National Gallery of Scotland",553,1387
+476,http://www.vggallery.com/painting/p_0554.htm,"['Orchard in Blossom, Bordered by Cypresses']","April, 1888","New Haven (Conn.), Yale University Art Gallery",554,1388
+477,http://www.vggallery.com/painting/p_0513.htm,"['Orchard in Blossom, Bordered by Cypresses']","April, 1888","Otterlo, Kröller-Müller Museum",513,1389
+478,http://www.vggallery.com/painting/p_0551.htm,['Orchard with Peach Trees in Blossom'],"April, 1888",Private collection,551,1396
+479,http://www.vggallery.com/painting/p_0407.htm,['Path Through a Field with Willows'],"April, 1888","Switzerland, private collection",407,1402
+480,http://www.vggallery.com/painting/p_0403.htm,"['White Orchard, The']","April, 1888","Amsterdam, Van Gogh Museum",403,1378
+481,http://www.vggallery.com/painting/p_0404.htm,['Peach Tree in Blossom'],"April-May, 1888","Amsterdam, Van Gogh Museum",404,1391
+482,http://www.vggallery.com/painting/p_0408.htm,['Farmhouse in a Wheat Field'],"May, 1888","Amsterdam, Van Gogh Museum",408,1417
+483,http://www.vggallery.com/painting/p_0576.htm,['Farmhouses in a Wheat Field Near Arles'],"May, 1888","Amsterdam, Van Gogh Museum",576,1423
+484,http://www.vggallery.com/painting/p_0575.htm,['Landscape Under a Stormy Sky'],"May, 1888",Private collection,575,1422
+485,http://www.vggallery.com/painting/p_0567.htm,"['Lane near Arles, A']","May, 1888","Greifswald, Pommersches Landesmuseum",567,1419
+486,http://www.vggallery.com/painting/p_0570.htm,"['Langlois Bridge at Arles, The']","May, 1888","Cologne, Wallraf-Richartz-Museum",570,1421
+487,http://www.vggallery.com/painting/p_0410.htm,"['Still Life: Blue Enamel Coffeepot, Earthenware and Fruit']","May, 1888","Athens, Basil and Elise Goulandris Museum of Contemporary Art",410,1426
+488,http://www.vggallery.com/painting/p_0384.htm,"['Still Life: Bottle, Lemons and Oranges']","May, 1888","Otterlo, Kröller-Müller Museum",384,1425
+489,http://www.vggallery.com/painting/p_0591.htm,['Still Life: Bowl with Daisies'],"May, 1888","Richmond, Virginia Museum of Fine Arts",591,1429
+490,http://www.vggallery.com/painting/p_0600.htm,['Still Life: Majolica Jug with Wildflowers'],"May, 1888","Philadelphia, The Barnes Foundation",600,1424
+491,http://www.vggallery.com/painting/p_0409.htm,['View of Arles with Irises in the Foreground'],"May, 1888","Amsterdam, Van Gogh Museum",409,1416
+492,http://www.vggallery.com/painting/p_0415.htm,['Seascape at Saintes-Maries'],"Early June, 1888","Amsterdam, Van Gogh Museum",415,1452
+493,http://www.vggallery.com/painting/p_0420.htm,['Street in Saintes-Maries'],"Early June, 1888",Private collection,420,1462
+494,http://www.vggallery.com/painting/p_0419.htm,['Three White Cottages in Saintes-Maries'],"Early June, 1888","Zurich, Kunsthaus Zurich",419,1465
+495,http://www.vggallery.com/painting/p_0545.htm,['Arles: View from the Wheat Fields'],"June, 1888","Paris, Musée Rodin",545,1477
+496,http://www.vggallery.com/painting/p_0426.htm,"['Bridge at Trinquetaille, The']","June, 1888","Israel, Collection Joseph Hackmey",426,1468
+497,http://www.vggallery.com/painting/p_0427.htm,['Canal with Women Washing'],"June, 1888","Washington, D.C., Collection Joseph Albritton",427,1490
+498,http://www.vggallery.com/painting/p_0565.htm,['Farmhouse in Provence'],"June, 1888","Washington, National Gallery of Art, Alisa Mellon Bruce Collection",565,1443
+499,http://www.vggallery.com/painting/p_0535.htm,"['Girl with Ruffled Hair (""The Mudlark"")']","June, 1888","La-Chaux-de-Fonds (Switzerland), Musée des Beaux-Arts",535,1467
+500,http://www.vggallery.com/painting/p_0562.htm,['Green Ears of Wheat'],"June, 1888","Jerusalem, The Israel Museum, Gift of the Hanadiv Foundation",562,1483
+501,http://www.vggallery.com/painting/p_0412.htm,"['Harvest at La Crau, with Montmajour in the Background']","June, 1888","Amsterdam, Van Gogh Museum",412,1440
+502,http://www.vggallery.com/painting/p_0558.htm,['Harvest in Provence'],"June, 1888","Jerusalem, The Israel Museum",558,1481
+503,http://www.vggallery.com/painting/p_0425.htm,['Haystacks in Provence'],"June, 1888","Otterlo, Kröller-Müller Museum",425,1442
+504,http://www.vggallery.com/painting/p_0417.htm,['Seascape at Saintes-Maries'],"June, 1888","Moscow, Pushkin Museum",417,1453
+505,http://www.vggallery.com/painting/p_0424.htm,"['Seated Zouave, The']","June, 1888","Argentina, private collection",424,1488
+506,http://www.vggallery.com/painting/p_0422.htm,"['Sower, The']","June, 1888","Otterlo, Kröller-Müller Museum",422,1470
+507,http://www.vggallery.com/painting/p_0465.htm,['Sunset: Wheat Fields Near Arles'],"June, 1888","Winterthur, Kunstmuseum Winterthur",465,1473
+508,http://www.vggallery.com/painting/p_0416.htm,['View of Saintes-Maries'],"June, 1888","Otterlo, Kröller-Müller Museum",416,1447
+509,http://www.vggallery.com/painting/p_0564.htm,['Wheat Field'],"June, 1888","Amsterdam, P. and N. de Boer Foundation",564,1475
+510,http://www.vggallery.com/painting/p_0561.htm,['Wheat Field with Sheaves'],"June, 1888","Honolulu, Honolulu Museum of Art",561,1480
+511,http://www.vggallery.com/painting/p_0411.htm,['Wheat Field with the Alpilles Foothills in the Background'],"June, 1888","Amsterdam, Van Gogh Museum",411,1476
+512,http://www.vggallery.com/painting/pjh_1478.htm,['Wheat Fields with Stacks'],"June, 1888",Private collection,n/a,1478
+513,http://www.vggallery.com/painting/p_0423.htm,"['Zouave (Half Length), The']","June, 1888","Amsterdam, Van Gogh Museum",423,1486
+514,http://www.vggallery.com/painting/p_0413.htm,['Fishing Boats on the Beach at Saintes-Maries'],"Late June, 1888","Amsterdam, Van Gogh Museum",413,1460
+515,http://www.vggallery.com/painting/pb_0003.htm,['Sunset at Montmajour'],"Summer, 1888",Private collection,None,None
+516,http://www.vggallery.com/painting/p_0466.htm,['Rocks with Oak Tree'],"Early July, 1888","Houston, The Museum of Fine Arts",466,1489
+517,http://www.vggallery.com/painting/p_0429.htm,['Flowering Garden with Path'],"July, 1888","The Hague, Kunstmuseum Den Haag (on loan)",429,1513
+518,http://www.vggallery.com/painting/p_0430.htm,['Flowering Garden'],"July, 1888","New York, private collection",430,1510
+519,http://www.vggallery.com/painting/p_0431.htm,"['La Mousmé, Sitting']","July, 1888","Washington, National Gallery of Art",431,1519
+520,http://www.vggallery.com/painting/p_0448.htm,"['Painter on His Way to Work, The']","July, 1888","Destroyed by fire in the Second World War; formerly in the Kaiser-Friedrich-Museum, Magdeburg (Germany)",448,1491
+521,http://www.vggallery.com/painting/p_0428.htm,['Sunny Lawn in a Public Park'],"July, 1888","Zurich, Collection Merzbacher (on permanent loan to the Kunsthaus Zurich)",428,1499
+522,http://www.vggallery.com/painting/p_0432.htm,['Portrait of the Postman Joseph Roulin'],"Early August, 1888","Boston, Museum of Fine Arts",432,1522
+523,http://www.vggallery.com/painting/p_0433.htm,['Portrait of the Postman Joseph Roulin'],"Early August, 1888","Detroit, Detroit Institute of Arts (partial and promised gift of Mr. and Mrs. Walter B. Ford II)",433,1524
+524,http://www.vggallery.com/painting/p_0437.htm,['Coal Barges'],"August, 1888","Annapolis (Md.), Collection Carleton Mitchell",437,1570
+525,http://www.vggallery.com/painting/p_0438.htm,['Coal Barges'],"August, 1888","Madrid, Museo Thyssen-Bornemisza",438,1571
+526,http://www.vggallery.com/painting/p_0445.htm,['Encampment of Gypsies with Caravans'],"August, 1888","Paris, Musée d'Orsay",445,1554
+527,http://www.vggallery.com/painting/p_0578.htm,['Garden Behind a House'],"August, 1888",Private collection,578,1538
+528,http://www.vggallery.com/painting/p_0549a.htm,['Interior of a Restaurant in Arles'],"August, 1888",Private collection,549a,1573
+529,http://www.vggallery.com/painting/p_0549.htm,['Interior of the Restaurant Venissac in Arles'],"August, 1888",Private collection,549,1572
+530,http://www.vggallery.com/painting/p_0461.htm,"['Pair of Shoes, A']","August, 1888","New York, The Metropolitan Museum of Art",461,1569
+531,http://www.vggallery.com/painting/p_0444.htm,['Portrait of Patience Escalier'],"August, 1888",Collection Niarchos,444,1563
+532,http://www.vggallery.com/painting/p_0443.htm,"['Portrait of Patience Escalier, Shepherd in Provence']","August, 1888","Pasadena (Cal.), Norton Simon Museum of Art",443,1548
+533,http://www.vggallery.com/painting/p_0449.htm,['Quay with Men Unloading Sand Barges'],"August, 1888","Essen, Museum Folkwang",449,1558
+534,http://www.vggallery.com/painting/p_0446.htm,['Railway Carriages'],"August, 1888","Avignon (France), Fondation Angladon-Dubrujeaud",446,1553
+535,http://www.vggallery.com/painting/p_0524.htm,['Self-Portrait with Pipe and Straw Hat'],"August, 1888","Amsterdam, Van Gogh Museum",524,1565
+536,http://www.vggallery.com/painting/p_0459.htm,['Still Life: Vase with Five Sunflowers'],"August, 1888",Destroyed by fire in the Second World War,459,1560
+537,http://www.vggallery.com/painting/p_0454.htm,['Still Life: Vase with Fifteen Sunflowers'],"August, 1888","London, National Gallery",454,1562
+538,http://www.vggallery.com/painting/p_0594.htm,['Still Life: Vase with Oleanders'],"August, 1888",Location unknown; possibly stolen in 1944,594,1567
+539,http://www.vggallery.com/painting/p_0593.htm,['Still Life: Vase with Oleanders and Books'],"August, 1888","New York, The Metropolitan Museum of Art",593,1566
+540,http://www.vggallery.com/painting/p_0456.htm,['Still Life: Vase with Twelve Sunflowers'],"August, 1888","Munich, Neue Pinakothek",456,1561
+541,http://www.vggallery.com/painting/p_0592.htm,['Still Life: Vase with Zinnias'],"August, 1888",Private collection,592,1568
+542,http://www.vggallery.com/painting/p_0447.htm,['Thistles'],"August, 1888",Collection Niarchos,447,1550
+543,http://www.vggallery.com/painting/p_0453.htm,['Three Sunflowers in a Vase'],"August, 1888","United States, private collection",453,1559
+544,http://www.vggallery.com/painting/p_0447a.htm,['Two Thistles'],"August, 1888",Private collection,447a,1551
+545,http://www.vggallery.com/painting/p_0467.htm,"['Cafe Terrace on the Place du Forum, Arles, at Night, The']","September, 1888","Otterlo, Kröller-Müller Museum",467,1580
+546,http://www.vggallery.com/painting/p_0566.htm,['Entrance to the Public Park in Arles'],"September, 1888","Washington, The Phillips Collection",566,1585
+547,http://www.vggallery.com/painting/p_0475.htm,"['Green Vineyard, The']","September, 1888","Otterlo, Kröller-Müller Museum",475,1595
+548,http://www.vggallery.com/painting/p_0470.htm,"['Lane in the Public Garden at Arles, A']","September, 1888","Otterlo, Kröller-Müller Museum",470,1582
+549,http://www.vggallery.com/painting/p_0463.htm,"['Night Cafe in the Place Lamartine in Arles, The']","September, 1888","New Haven (Conn.), Yale University Art Gallery",463,1575
+550,http://www.vggallery.com/painting/p_0550.htm,"['Old Mill, The']","September, 1888","Buffalo (N.Y.), Albright-Knox Art Gallery",550,1577
+551,http://www.vggallery.com/painting/p_0574.htm,['Ploughed Field'],"September, 1888","Amsterdam, Van Gogh Museum",574,1586
+552,http://www.vggallery.com/painting/p_0462.htm,['Portrait of Eugene Boch'],"September, 1888","Paris, Musée d'Orsay",462,1574
+553,http://www.vggallery.com/painting/p_0468.htm,"[""Poet's Garden, The""]","September, 1888","Chicago, The Art Institute of Chicago",468,1578
+554,http://www.vggallery.com/painting/p_0476.htm,['Self-Portrait (Dedicated to Paul Gauguin)'],"September, 1888","Cambridge (Mass.), Fogg Art Museum, Harvard University",476,1581
+555,http://www.vggallery.com/painting/p_0575a.htm,"['Sower: Outskirts of Arles in the Background, The']","September, 1888","Los Angeles, The Armand Hammer Museum of Art",575a,1596
+556,http://www.vggallery.com/painting/p_0474.htm,['Starry Night Over the Rhone'],"September, 1888","Paris, Musée d'Orsay",474,1592
+557,http://www.vggallery.com/painting/p_0464.htm,"[""Vincent's House in Arles (The Yellow House)""]","September, 1888","Amsterdam, Van Gogh Museum",464,1589
+558,http://www.vggallery.com/painting/p_0473.htm,"['Portrait of Milliet, Second Lieutenant of the Zouaves']","Late September, 1888","Otterlo, Kröller-Müller Museum",473,1588
+559,http://www.vggallery.com/painting/p_0572.htm,['Willows at Sunset'],"Autumn, 1888","Otterlo, Kröller-Müller Museum",572,1597
+560,http://www.vggallery.com/painting/p_0478.htm,"['Brothel, The']","October, 1888","Philadelphia, The Barnes Foundation",478,1599
+561,http://www.vggallery.com/painting/p_0485.htm,"[""Lovers: The Poet's Garden IV, The""]","October, 1888","Location unknown (declared to be ""degenerate"" by the Nazis and confiscated in 1937)",485,1615
+562,http://www.vggallery.com/painting/p_0471.htm,"['Park at Arles with the Entrance Seen through the Trees, The']","October, 1888",Destroyed by fire in the Second World War,471,1613
+563,http://www.vggallery.com/painting/p_0477.htm,"[""Portrait of the Artist's Mother""]","October, 1888","Pasadena (Cal.), Norton Simon Museum of Art",477,1600
+564,http://www.vggallery.com/painting/p_0479.htm,"[""Public Garden with Couple and Blue Fir Tree: The Poet's Garden III""]","October, 1888",Private collection,479,1601
+565,http://www.vggallery.com/painting/p_0472.htm,"['Public Park at Arles, The']","October, 1888",Private collection,472,1598
+566,http://www.vggallery.com/painting/p_0480.htm,"['Railway Bridge over Avenue Montmajour, Arles, The']","October, 1888",Private collection,480,1603
+567,http://www.vggallery.com/painting/p_0494.htm,"['Sower, The']","October, 1888","Winterthur, Villa Flora",494,1617
+568,http://www.vggallery.com/painting/p_0358.htm,['Still Life: French Novels'],"October, 1888","Amsterdam, Van Gogh Museum",358,1612
+569,http://www.vggallery.com/painting/p_0478a.htm,['Tarascon Diligence'],"October, 1888","Princeton, The Art Museum",478a,1605
+570,http://www.vggallery.com/painting/p_0481.htm,"['Trinquetaille Bridge, The']","October, 1888",Private collection,481,1604
+571,http://www.vggallery.com/painting/p_0482.htm,"[""Vincent's Bedroom in Arles""]","October, 1888","Amsterdam, Van Gogh Museum",482,1608
+572,http://www.vggallery.com/painting/p_0568.htm,['Les Alyscamps'],"Late October, 1888","Athens, Basil and Elise Goulandris Museum of Contemporary Art",568,1622
+573,http://www.vggallery.com/painting/p_0573.htm,['Trunk of an Old Yew Tree'],"Late October, 1888","London, Helly Nahmad Gallery",573,1618
+574,http://www.vggallery.com/painting/p_0489.htm,"[""L'Arlesienne: Madame Ginoux with Gloves and Umbrella""]","Early November, 1888","Paris, Musée d'Orsay",489,1625
+575,http://www.vggallery.com/painting/p_0488.htm,"[""L'Arlesienne: Madame Ginoux with Books""]","November, 1888 (or May, 1889?)","New York, The Metropolitan Museum of Art",488,1624
+576,http://www.vggallery.com/painting/p_0487.htm,['Les Alyscamps'],"November, 1888",Collection Niarchos,487,1621
+577,http://www.vggallery.com/painting/p_0569.htm,['Les Alyscamps'],"November, 1888",Private collection,569,1623
+578,http://www.vggallery.com/painting/p_0486.htm,['Les Alyscamps: Falling Autumn Leaves'],"November, 1888","Otterlo, Kröller-Müller Museum",486,1620
+579,http://www.vggallery.com/painting/p_0496.htm,['Memory of the Garden at Etten'],"November, 1888","St. Petersburg, Hermitage",496,1630
+580,http://www.vggallery.com/painting/p_0495.htm,"['Red Vineyard, The']","November, 1888","Moscow, Pushkin Museum",495,1626
+581,http://www.vggallery.com/painting/p_0451.htm,"['Sower, The']","November, 1888","Amsterdam, Van Gogh Museum",451,1629
+582,http://www.vggallery.com/painting/p_0450.htm,"['Sower, The']","November, 1888","Zurich, Foundation E.G. Bührle",450,1627
+583,http://www.vggallery.com/painting/p_0490.htm,['Mother Roulin with Her Baby'],"November-December, 1888","Philadelphia, The Philadelphia Museum of Art",490,1637
+584,http://www.vggallery.com/painting/p_0491.htm,['Mother Roulin with Her Baby'],"November-December, 1888","New York, The Metropolitan Museum of Art",491,1638
+585,http://www.vggallery.com/painting/p_0492.htm,['Portrait of Armand Roulin'],"November-December, 1888","Essen, Museum Folkwang",492,1642
+586,http://www.vggallery.com/painting/p_0493.htm,['Portrait of Armand Roulin'],"November-December, 1888","Rotterdam, Museum Boijmans-van Beuningen",493,1643
+587,http://www.vggallery.com/painting/p_0538.htm,['Portrait of Camille Roulin'],"November-December, 1888","Amsterdam, Van Gogh Museum",538,1645
+588,http://www.vggallery.com/painting/p_0537.htm,['Portrait of Camille Roulin'],"November-December, 1888","Philadelphia, The Philadelphia Museum of Art, Mrs. Rodolphe Meyer de Schauensee, from the private collection of Mr. and Mrs. Walter H. Annenberg",537,1644
+589,http://www.vggallery.com/painting/p_0503.htm,['Portrait of Madame Augustine Roulin'],"November-December, 1888","Winterthur, Oskar Reinhart Collection 'Am Römerholz'",503,1646
+590,http://www.vggallery.com/painting/p_0434.htm,['Portrait of the Postman Joseph Roulin'],"November-December, 1888","Winterthur, Kunstmuseum Winterthur",434,1647
+591,http://www.vggallery.com/painting/p_0501.htm,['Self-Portrait'],"November-December, 1888",Private collection,501,1634
+592,http://www.vggallery.com/painting/p_0546.htm,['Paul Gauguin (Man in a Red Beret)'],c. 1 December 1888,"Amsterdam, Van Gogh Museum",546,None
+593,http://www.vggallery.com/painting/p_0665.htm,"['Schoolboy (Camille Roulin), The']","Early December, 1888","Sao Paulo, Museu de Arte de Sao Paulo",665,1879
+594,http://www.vggallery.com/painting/p_0441.htm,"['Baby Marcelle Roulin, The']","December, 1888","Amsterdam, Van Gogh Museum",441,1641
+595,http://www.vggallery.com/painting/p_0441a.htm,"['Baby Marcelle Roulin, The']","December, 1888",Private collection,441a,1640
+596,http://www.vggallery.com/painting/p_0440.htm,"['Baby Marcelle Roulin, The']","December, 1888","Washington, National Gallery of Art",440,1639
+597,http://www.vggallery.com/painting/p_0547.htm,"['Dance Hall in Arles, The']","December, 1888","Paris, Musée d'Orsay",547,1652
+598,http://www.vggallery.com/painting/p_0504.htm,['La Berceuse (Augustine Roulin)'],"December, 1888","Otterlo, Kröller-Müller Museum",504,1655
+599,http://www.vggallery.com/painting/p_0497.htm,"['Novel Reader, The']",c. 16 November 1888,Private collection,497,1632
+600,http://www.vggallery.com/painting/p_0499.htm,"[""Paul Gauguin's Armchair""]","December, 1888","Amsterdam, Van Gogh Museum",499,1636
+601,http://www.vggallery.com/painting/p_0533.htm,['Portrait of a Man'],"December, 1888","Otterlo, Kröller-Müller Museum",533,1649
+602,http://www.vggallery.com/painting/p_0532.htm,['Portrait of a One-Eyed Man'],"December, 1888","Amsterdam, Van Gogh Museum",532,1650
+603,http://www.vggallery.com/painting/p_0534.htm,"['Smoker, The']","December, 1888","Philadelphia, The Barnes Foundation",534,1651
+604,http://www.vggallery.com/painting/p_0548.htm,['Spectators in the Arena at Arles'],"December, 1888","St. Petersburg, Hermitage",548,1653
+605,http://www.vggallery.com/painting/p_0498.htm,"[""Vincent's Chair with His Pipe""]","December, 1888","London, National Gallery",498,1635
+606,http://www.vggallery.com/painting/p_0536.htm,['Young Man with a Cap'],"December, 1888",Private collection,536,1648
+607,http://www.vggallery.com/painting/p_0605.htm,['Crab on Its Back'],"January, 1889","Amsterdam, Van Gogh Museum",605,1663
+608,http://www.vggallery.com/painting/p_0506.htm,['Madame Roulin Rocking the Cradle (La Berceuse)'],"January, 1889","Chicago, The Art Institute of Chicago",506,1670
+609,http://www.vggallery.com/painting/p_0505.htm,['La Berceuse (Augustine Roulin)'],"January, 1889","New York, The Metropolitan Museum of Art",505,1669
+610,http://www.vggallery.com/painting/p_0500.htm,['Portrait of Doctor Felix Rey'],"January, 1889","Moscow, Pushkin Museum",500,1659
+611,http://www.vggallery.com/painting/p_0527.htm,['Self-Portrait with Bandaged Ear'],"January, 1889","London, Courtauld Institute Galleries",527,1657
+612,http://www.vggallery.com/painting/p_0529.htm,['Self-Portrait with Bandaged Ear and Pipe'],"January, 1889",Zurich: Kunsthaus Zurich (on semi-permanent loan),529,1658
+613,http://www.vggallery.com/painting/p_0502.htm,"['Still Life with Oranges, Lemons and Blue Gloves']","January, 1889","Washington, D.C.: National Gallery of Art",502,1664
+614,http://www.vggallery.com/painting/p_0510.htm,['Still Life: Bloaters on a Piece of Yellow Paper'],"January, 1889",Private collection,510,1661
+615,http://www.vggallery.com/painting/p_0604.htm,"['Still Life: Drawing Board, Pipe, Onions and Sealing-Wax']","January, 1889","Otterlo, Kröller-Müller Museum",604,1656
+616,http://www.vggallery.com/painting/p_0283a.htm,['Still Life: Two Red Herrings'],"January, 1889","France, Collection Francis Junker",283a,1660
+617,http://www.vggallery.com/painting/p_0458.htm,['Still Life: Vase with Fifteen Sunflowers'],"January, 1889","Amsterdam, Van Gogh Museum",458,1667
+618,http://www.vggallery.com/painting/p_0457.htm,['Still Life: Vase with Fifteen Sunflowers'],"January, 1889","Tokyo, Sompo Japan Museum of Art",457,1666
+619,http://www.vggallery.com/painting/p_0455.htm,['Still Life: Vase with Twelve Sunflowers'],"January, 1889","Philadelphia, The Philadelphia Museum of Art",455,1668
+620,http://www.vggallery.com/painting/p_0606.htm,['Two Crabs'],"January, 1889","London, Faggionato Fine Arts",606,1662
+621,http://www.vggallery.com/painting/p_0508.htm,['La Berceuse (Augustine Roulin)'],"February, 1889","Boston, Museum of Fine Arts",508,1671
+622,http://www.vggallery.com/painting/p_0507.htm,['La Berceuse (Augustine Roulin)'],"March, 1889","Amsterdam, Stedelijk Museum",507,1672
+623,http://www.vggallery.com/painting/p_0402.htm,['Two White Butterflies'],"Spring, 1889","Amsterdam, Van Gogh Museum",402,1677
+624,http://www.vggallery.com/painting/p_0582.htm,['Clumps of Grass'],"April, 1889","Hakone, Pola Museum of Art",582,1678
+625,http://www.vggallery.com/painting/p_0519.htm,"['Courtyard of the Hospital at Arles, The']","April, 1889","Winterthur, Oskar Reinhart Collection 'Am Römerholz'",519,1687
+626,http://www.vggallery.com/painting/p_0584.htm,"['Field of Yellow Flowers, A']","April, 1889","Winterthur, Kunstmuseum Winterthur",584,1680
+627,http://www.vggallery.com/painting/p_0460.htm,['Grass and Butterflies'],"April, 1889","France, private collection",460,1676
+628,http://www.vggallery.com/painting/p_0514.htm,['La Crau with Peach Trees in Blossom'],"April, 1889","London, Courtauld Institute Galleries",514,1681
+629,http://www.vggallery.com/painting/p_0516.htm,['Orchard in Blossom with View of Arles'],"April, 1889","Munich, Neue Pinakothek",516,1685
+630,http://www.vggallery.com/painting/p_0520.htm,['Pollard Willows'],"April, 1889",Collection Niarchos,520,1690
+631,http://www.vggallery.com/painting/p_0435.htm,['Portrait of the Postman Joseph Roulin'],"April, 1889","Philadelphia, The Barnes Foundation",435,1674
+632,http://www.vggallery.com/painting/p_0436.htm,['Portrait of the Postman Joseph Roulin'],"April, 1889","New York, The Museum of Modern Art",436,1675
+633,http://www.vggallery.com/painting/p_0439.htm,['Portrait of the Postman Joseph Roulin'],"April, 1889","Otterlo, Kröller-Müller Museum",439,1673
+634,http://www.vggallery.com/painting/p_0517.htm,['Red Chestnuts in the Public Park at Arles'],"April, 1889",Private collection,517,1689
+635,http://www.vggallery.com/painting/p_0580.htm,['Rosebush in Blossom'],"April, 1889","Tokyo, National Museum of Western Art",580,1679
+636,http://www.vggallery.com/painting/p_0515.htm,['View of Arles with Trees in Blossom'],"April, 1889","Amsterdam, Van Gogh Museum",515,1683
+637,http://www.vggallery.com/painting/p_0646.htm,['Ward in the Hospital in Arles'],"April, 1889","Winterthur, Oskar Reinhart Collection 'Am Römerholz'",646,1686
+638,http://www.vggallery.com/painting/p_0609.htm,"['Corner in the Garden of Saint-Paul Hospital, A']","May, 1889",Location unknown,609,1693
+639,http://www.vggallery.com/painting/p_0610.htm,['Great Peacock Moth'],"May, 1889","Amsterdam, Van Gogh Museum",610,1702
+640,http://www.vggallery.com/painting/p_0734.htm,"['Garden of Saint-Paul Hospital, The']","May, 1889","Otterlo, Kröller-Müller Museum",734,1698
+641,http://www.vggallery.com/painting/p_0601.htm,"['Iris, The']","May, 1889","Ottawa, National Gallery of Canada",601,1699
+642,http://www.vggallery.com/painting/p_0608.htm,['Irises'],"May, 1889","Los Angeles, Getty Center",608,1691
+643,http://www.vggallery.com/painting/p_0579.htm,['Lilacs'],"May, 1889","St. Petersburg, Hermitage",579,1692
+644,http://www.vggallery.com/painting/p_0720.htm,['Field of Spring Wheat at Sunrise'],"May-June, 1889","Otterlo, Kröller-Müller Museum",720,1728
+645,http://www.vggallery.com/painting/p_0723.htm,['At the Foot of the Mountains'],"Early June, 1889","Amsterdam, Van Gogh Museum",723,1722
+646,http://www.vggallery.com/painting/p_0581.htm,['Field with Poppies'],"Early June, 1889","Bremen, Kunsthalle Bremen",581,1751
+647,http://www.vggallery.com/painting/p_0611.htm,['Mountainous Landscape Behind Saint-Paul Hospital'],"Early June, 1889","Copenhagen, Ny Carlsberg Glyptotek",611,1723
+648,http://www.vggallery.com/painting/p_0613.htm,['Cypresses'],"June, 1889","New York, The Metropolitan Museum of Art",613,1746
+649,http://www.vggallery.com/painting/p_0620.htm,['Cypresses with Two Female Figures'],"June, 1889","Otterlo, Kröller-Müller Museum",620,1748
+650,http://www.vggallery.com/painting/p_0718.htm,['Green Wheat Field'],"June, 1889","Zurich, Kunsthaus Zurich (on loan)",718,1727
+651,http://www.vggallery.com/painting/p_0725.htm,['Le Mont Gaussier with the Mas de Saint-Paul'],"June, 1889","London, private collection",725,1744
+652,http://www.vggallery.com/painting/p_0715.htm,['Olive Grove'],"June, 1889","Kansas City (Mo.), The Nelson-Atkins Museum of Fine Art",715,1759
+653,http://www.vggallery.com/painting/p_0709.htm,['Olive Grove: Bright Blue Sky'],"June, 1889","Amsterdam, Van Gogh Museum",709,1760
+654,http://www.vggallery.com/painting/p_0712.htm,['Olive Trees with the Alpilles in the Background'],"June, 1889","New York, Museum of Modern Art",712,1740
+655,http://www.vggallery.com/painting/p_0612.htm,['Starry Night'],"June, 1889","New York, The Museum of Modern Art",612,1731
+656,http://www.vggallery.com/painting/p_0719.htm,['Green Wheat Field with Cypress'],"Mid-June, 1889","Prague, Narodni Gallery",719,1725
+657,http://www.vggallery.com/painting/p_0585.htm,['Olive Grove'],"Mid-June, 1889","Otterlo, Kröller-Müller Museum",585,1758
+658,http://www.vggallery.com/painting/p_0717.htm,['Wheat Field with Cypresses at the Haute Galline Near Eygalieres'],"Late June, 1889","New York, The Metropolitan Museum of Art",717,1756
+659,http://www.vggallery.com/painting/p_0617.htm,['Wheat Field with Reaper and Sun'],"Late June, 1889","Otterlo, Kröller-Müller Museum",617,1753
+660,http://www.vggallery.com/painting/p_0735.htm,['Evening Landscape with Rising Moon'],"Early July, 1889","Otterlo, Kröller-Müller Museum",735,1761
+661,http://www.vggallery.com/painting/p_0744.htm,['Entrance to a Quarry'],"Mid-July, 1889","Amsterdam, Van Gogh Museum",744,1802
+662,http://www.vggallery.com/painting/p_0622.htm,['Mountains at Saint-Rémy with Dark Cottage'],"July, 1889","New York, The Solomon R. Guggenheim Museum, Justin K. Thannhauser Collection",622,1766
+663,http://www.vggallery.com/painting/p_0746.htm,['Tree Trunks with Ivy'],"July, 1889","Amsterdam, Van Gogh Museum",746,1762
+664,http://www.vggallery.com/painting/p_0745.htm,['Undergrowth with Ivy'],"July, 1889","Amsterdam, Van Gogh Museum",745,1764
+665,http://www.vggallery.com/painting/p_0747.htm,['Tree Trunks with Ivy'],"Summer, 1889","Otterlo, Kröller-Müller Museum",747,1763
+666,http://www.vggallery.com/painting/p_0625.htm,['Enclosed Field with Ploughman'],"Late August, 1889",Private collection,625,1768
+667,http://www.vggallery.com/painting/p_0626.htm,['Self-Portrait'],"Late August, 1889","Washington, National Gallery of Art",626,1770
+668,http://www.vggallery.com/painting/p_0484.htm,"['Bedroom, The']","Early September, 1889","Chicago, The Art Institute of Chicago",484,1771
+669,http://www.vggallery.com/painting/p_0615.htm,['Wheat Field with Cypresses'],"Early September, 1889","London, National Gallery",615,1755
+670,http://www.vggallery.com/painting/p_0618.htm,['Wheat Fields with Reaper at Sunrise'],"Early September, 1889","Amsterdam, Van Gogh Museum",618,1773
+671,http://www.vggallery.com/painting/p_0624.htm,['Half Figure of an Angel (after Rembrandt)'],"September, 1889",Private collection,624,1778
+672,http://www.vggallery.com/painting/p_0711.htm,['Olive Trees'],"September, 1889",Private collection,711,1791
+673,http://www.vggallery.com/painting/p_0700.htm,['Peasant Woman Binding Sheaves (after Millet)'],"September, 1889","Amsterdam, Van Gogh Museum",700,1781
+674,http://www.vggallery.com/painting/p_0697.htm,['Peasant Woman Cutting Straw (after Millet)'],"September, 1889","Amsterdam, Van Gogh Museum",697,1788
+675,http://www.vggallery.com/painting/p_0698.htm,['Peasant Woman with a Rake (after Millet)'],"September, 1889",Private collection,698,1789
+676,http://www.vggallery.com/painting/p_0630.htm,"['Pietà (after Delacroix), The']","September, 1889","Amsterdam, Van Gogh Museum",630,1775
+677,http://www.vggallery.com/painting/p_0757.htm,"['Pietà (after Delacroix), The']","September, 1889","Rome, Musei Vaticani",757,1776
+678,http://www.vggallery.com/painting/p_0531.htm,['Portrait of a Young Peasant'],"September, 1889","Rome, Galleria Nazionale d'Arte Moderna",531,1779
+679,http://www.vggallery.com/painting/p_0631.htm,['Portrait of Madame Trabuc'],"September, 1889","St. Petersburg, Hermitage",631,1777
+680,http://www.vggallery.com/painting/p_0629.htm,"['Portrait of Trabuc, an Attendant at Saint-Paul Hospital']","September, 1889","Solothurn, Kunstmuseum Solothurn, Dubi-Muller Foundation",629,1774
+681,http://www.vggallery.com/painting/p_0687.htm,['Reaper with Sickle (after Millet)'],"September, 1889","Amsterdam, Van Gogh Museum",687,1782
+682,http://www.vggallery.com/painting/p_0688.htm,"['Reaper (after Millet), The']","September, 1889",Private collection,688,1783
+683,http://www.vggallery.com/painting/p_0525.htm,['Self-Portrait'],"September, 1889",Private collection,525,1665
+684,http://www.vggallery.com/painting/p_0627.htm,['Self-Portrait'],"September, 1889","Paris, Musée d'Orsay",627,1772
+685,http://www.vggallery.com/painting/p_0693.htm,"['Sheaf-Binder, The (after Millet)']","September, 1889","Amsterdam, Van Gogh Museum",693,1785
+686,http://www.vggallery.com/painting/p_0634.htm,"['Sheep-Shearers, The (after Millet)']","September, 1889","Amsterdam, Van Gogh Museum",634,1787
+687,http://www.vggallery.com/painting/p_0696.htm,"['Spinner, The']","September, 1889","Geneva, Collection Moshe Mayer",696,1786
+688,http://www.vggallery.com/painting/p_0692.htm,"['Thresher (after Millet), The']","September, 1889","Amsterdam, Van Gogh Museum",692,1784
+689,http://www.vggallery.com/painting/p_0483.htm,"[""Vincent's Bedroom in Arles""]","September, 1889","Paris, Musée d'Orsay",483,1793
+690,http://www.vggallery.com/painting/p_0619.htm,['Wheat Field Behind Saint-Paul Hospital with a Reaper'],"September, 1889","Essen, Museum Folkwang",619,1792
+691,http://www.vggallery.com/painting/p_0743.htm,['Wheat Field with Cypresses'],"September, 1889",Collection Niarchos,743,1790
+692,http://www.vggallery.com/painting/p_0641.htm,['Enclosed Wheat Field with Peasant'],"Early October, 1889","Indianapolis, Indianapolis Museum of Art",641,1795
+693,http://www.vggallery.com/painting/p_0635.htm,['Entrance to a Quarry near Saint-Rémy'],"October, 1889",Private collection,635,1767
+694,http://www.vggallery.com/painting/p_0706.htm,['Field with Ploughman and Mill'],"October, 1889","Boston, Museum of Fine Arts",706,1794
+695,http://www.vggallery.com/painting/p_0640.htm,"['Garden of Saint-Paul Hospital, The']","October, 1889",Private collection,640,1800
+696,http://www.vggallery.com/painting/p_0730.htm,"['Garden of Saint-Paul Hospital, The']","October, 1889",Private collection,730,1841
+697,http://www.vggallery.com/painting/p_0645.htm,['Les Peiroulets Ravine'],"October, 1889","Amsterdam, Van Gogh Museum",645,1803
+698,http://www.vggallery.com/painting/p_0662.htm,['Les Peiroulets Ravine'],"October, 1889","Boston, Museum of Fine Arts",662,1804
+699,http://www.vggallery.com/painting/p_0644.htm,"['Man is at Sea (after Demont-Breton), The']","October, 1889",Private collection,644,1805
+700,http://www.vggallery.com/painting/p_0637.htm,"['Mulberry Tree, The']","October, 1889","Pasadena (Cal.), Norton Simon Museum of Art",637,1796
+701,http://www.vggallery.com/painting/p_0703.htm,['Portrait of a Patient in Saint-Paul Hospital'],"October, 1889","Amsterdam, Van Gogh Museum",703,1832
+702,http://www.vggallery.com/painting/p_0643.htm,['Trees in the Garden of Saint-Paul Hospital'],"October, 1889","Los Angeles, The Armand Hammer Museum of Art",643,1799
+703,http://www.vggallery.com/painting/p_0731.htm,['Trees in the Garden of Saint-Paul Hospital'],"October, 1889",Private collection,731,1801
+704,http://www.vggallery.com/painting/p_0642.htm,['Trees in the Garden of Saint-Paul Hospital'],"October, 1889","Switzerland, private collection",642,1798
+705,http://www.vggallery.com/painting/p_0648.htm,['Two Peasants Digging (after Millet)'],"October, 1889","Amsterdam, Stedelijk Museum",648,1833
+706,http://www.vggallery.com/painting/p_0638.htm,['Two Poplars on a Road Through the Hills'],"October, 1889","Cleveland, The Cleveland Museum of Art",638,1797
+707,http://www.vggallery.com/painting/p_0803.htm,['View of the Church of Saint-Paul-de-Mausole'],"October, 1889",Private collection,803,2124
+708,http://www.vggallery.com/painting/p_0651.htm,"['Walk: Falling Leaves, The']","October, 1889","Amsterdam, Van Gogh Museum",651,1844
+709,http://www.vggallery.com/painting/p_0647.htm,['Evening: The Watch (after Millet)'],"Late October, 1889","Amsterdam, Van Gogh Museum",647,1834
+710,http://www.vggallery.com/painting/p_0690.htm,"['Sower, The (after Millet)']","Late October, 1889",Collection Niarchos,690,1837
+711,http://www.vggallery.com/painting/p_0689.htm,"['Sower, The (after Millet)']","October-November, 1889","Otterlo, Kröller-Müller Museum",689,1836
+712,http://www.vggallery.com/painting/p_0650.htm,['Wheat Field in Rain'],"Early November, 1889","Philadelphia, The Philadelphia Museum of Art",650,1839
+713,http://www.vggallery.com/painting/p_0649.htm,['Evening: The End of the Day (after Millet)'],"November, 1889","Komaki, Menard Art Museum",649,1835
+714,http://www.vggallery.com/painting/p_0733.htm,"['Garden of Saint-Paul Hospital with Figure, The']","November, 1889","Otterlo, Kröller-Müller Museum",733,1845
+715,http://www.vggallery.com/painting/p_0660.htm,"['Garden of Saint-Paul Hospital, The']","November, 1889","Essen, Museum Folkwang",660,1849
+716,http://www.vggallery.com/painting/p_0818.htm,['Landscape with Trees and Figures'],"November, 1889","Baltimore, The Baltimore Museum of Art, The Cone Collection",818,1848
+717,http://www.vggallery.com/painting/p_0586.htm,['Olive Grove: Orange Sky'],"November, 1889","Goteborg, Goteborgs Konstmuseum",586,1854
+718,http://www.vggallery.com/painting/p_0708.htm,['Olive Grove: Pale Blue Sky'],"November, 1889","New York, Metropolitan Museum of Art (on loan, anticipated bequest of Walker H. Annenberg)",708,1855
+719,http://www.vggallery.com/painting/p_0710.htm,['Olive Trees with Yellow Sky and Sun'],"November, 1889","Minneapolis, The Minneapolis Institute of Art",710,1856
+720,http://www.vggallery.com/painting/p_0714.htm,['Olive Trees: Bright Blue Sky'],"November, 1889","Edinburgh, National Gallery of Scotland",714,1858
+721,http://www.vggallery.com/painting/p_0652.htm,['Pine Trees against a Red Sky with Setting Sun'],"November, 1889","Otterlo, Kröller-Müller Museum",652,1843
+722,http://www.vggallery.com/painting/p_0653.htm,['Pine Trees with Figure in the Garden of Saint-Paul Hospital'],"November, 1889","Paris, Musée d'Orsay",653,1840
+723,http://www.vggallery.com/painting/p_0657.htm,"['Road Menders, The']","November, 1889","Cleveland, The Cleveland Museum of Art",657,1860
+724,http://www.vggallery.com/painting/p_0658.htm,"['Road Menders, The']","November, 1889","Washington, The Phillips Collection",658,1861
+725,http://www.vggallery.com/painting/p_0699.htm,"['Shepherdess, The (after Millet)']","November, 1889","Tel Aviv, Tel Aviv Museum, loaned by Moshe Mayer, Geneva",699,1838
+726,http://www.vggallery.com/painting/p_0732.htm,"['Stone Bench in the Garden of Saint-Paul Hospital, The']","November, 1889","Sao Paulo, Museu de Arte de Sao Paulo",732,1842
+727,http://www.vggallery.com/painting/p_0742.htm,['Study of Pine Trees'],"November, 1889","Otterlo, Kröller-Müller Museum",742,1846
+728,http://www.vggallery.com/painting/p_0701.htm,['Two Diggers among Trees'],"November-December, 1889","Detroit, The Detroit Institute of Arts",701,1847
+729,http://www.vggallery.com/painting/p_0707.htm,['Olive Grove'],"November-December, 1889","Amsterdam, Van Gogh Museum",707,1857
+730,http://www.vggallery.com/painting/p_0716.htm,['Olive Trees against a Slope of a Hill'],"November-December, 1889","Amsterdam, Van Gogh Museum",716,1878
+731,http://www.vggallery.com/painting/p_0722.htm,['Wheat Field Behind Saint-Paul Hospital'],"November-December, 1889","Richmond (Va.), Virginia Museum of Fine Arts, Collection of Mr. and Mrs. Paul Mellon",722,1872
+732,http://www.vggallery.com/painting/p_0737.htm,['Enclosed Field with Rising Sun'],"December, 1889",Private collection,737,1862
+733,http://www.vggallery.com/painting/p_0739.htm,['Field with Two Rabbits'],"December, 1889","Amsterdam, Van Gogh Museum",739,1876
+734,http://www.vggallery.com/painting/p_0659.htm,"['Garden of Saint-Paul Hospital, The']","December, 1889","Amsterdam, Van Gogh Museum",659,1850
+735,http://www.vggallery.com/painting/p_0726.htm,['Landscape in the Neighbourhood of Saint-Rémy'],"December, 1889",Location unknown (stolen in 1989),726,1874
+736,http://www.vggallery.com/painting/p_0663.htm,['Landscape with Olive Tree and Mountains in the Background'],"December, 1889",Private collection,663,1866
+737,http://www.vggallery.com/painting/p_0661.htm,['Les Peiroulets Ravine'],"December, 1889","Otterlo, Kröller-Müller Museum",661,1871
+738,http://www.vggallery.com/painting/p_0721.htm,"['Meadow in the Mountains: Le Mas de Saint-Paul, A']","December, 1889","Otterlo, Kröller-Müller Museum",721,1864
+739,http://www.vggallery.com/painting/p_0587.htm,['Olive Grove with Picking Figures'],"December, 1889","Otterlo, Kröller-Müller Museum",587,1853
+740,http://www.vggallery.com/painting/p_0654.htm,['Olive Picking'],"December, 1889","Athens, Basil and Elise Goulandris Museum of Contemporary Art",654,1868
+741,http://www.vggallery.com/painting/p_0655.htm,['Olive Picking'],"December, 1889","New York, Metropolitan Museum of Art",655,1869
+742,http://www.vggallery.com/painting/p_0656.htm,['Olive Picking'],"December, 1889","Washington, National Gallery of Art",656,1870
+743,http://www.vggallery.com/painting/p_0728.htm,"['Road at Saint-Remy with Female Figure, A']","December, 1889","Kasama (Japan), Kasama Nichido Museum of Art",728,1875
+744,http://www.vggallery.com/painting/p_0727.htm,['Valley with Ploughman Seen from Above'],"December, 1889","St. Petersburg, Hermitage",727,1877
+745,http://www.vggallery.com/painting/p_0623.htm,['Wooden Sheds'],"December, 1889","Brussels, private collection",623,1873
+746,http://www.vggallery.com/painting/p_0664.htm,"['White Cottage Among the Olive Trees, The']","December, 1889","Japan, private collection",664,1865
+747,http://www.vggallery.com/painting/p_0684.htm,['Morning: Peasant Couple Going to Work (after Millet)'],"January, 1890","St. Petersburg, Hermitage",684,1880
+748,http://www.vggallery.com/painting/p_0686.htm,['Noon: Rest from Work (after Millet)'],"January, 1890","Paris, Musée d'Orsay",686,1881
+749,http://www.vggallery.com/painting/p_0632.htm,"['Plough and the Harrow (after Millet), The']","January, 1890","Amsterdam, Van Gogh Museum",632,1882
+750,http://www.vggallery.com/painting/p_0671.htm,['Blossoming Almond Tree'],"February, 1890","Amsterdam, Van Gogh Museum",671,1891
+751,http://www.vggallery.com/painting/p_0621.htm,['Cypresses and Two Women'],"February, 1890","Amsterdam, Van Gogh Museum",621,1888
+752,http://www.vggallery.com/painting/p_0667.htm,"['Drinkers, The']","February, 1890","Chicago, The Art Institute of Chicago",667,1884
+753,http://www.vggallery.com/painting/p_0541.htm,"[""L'Arlesienne (Madame Ginoux)""]","February, 1890","Otterlo, Kröller-Müller Museum",541,1893
+754,http://www.vggallery.com/painting/p_0540.htm,"[""L'Arlesienne (Madame Ginoux)""]","February, 1890","Rome, Galleria Nazionale d'Arte Moderna",540,1892
+755,http://www.vggallery.com/painting/p_0542.htm,"[""L'Arlesienne (Madame Ginoux)""]","February, 1890","Sao Paulo, Museu de Arte de Sao Paulo",542,1894
+756,http://www.vggallery.com/painting/p_0543.htm,"[""L'Arlesienne (Madame Ginoux)""]","February, 1890",Private collection,543,1895
+757,http://www.vggallery.com/painting/p_0674.htm,['Thatched Cottages in the Sunshine: Reminiscence of the North'],"February, 1890","Philadelphia, The Barnes Foundation",674,1920
+758,http://www.vggallery.com/painting/p_0675.htm,['Cottages and Cypresses: Reminiscence of the North'],"March-April, 1890","Amsterdam, Van Gogh Museum",675,1921
+759,http://www.vggallery.com/painting/p_0673.htm,['Cottages: Reminiscence of the North'],"March-April, 1890",Private collection,673,1919
+760,http://www.vggallery.com/painting/p_0694.htm,['Peasants Lifting Potatoes'],"March-April, 1890",Private collection,694,1922
+761,http://www.vggallery.com/painting/p_0695.htm,['Two Peasant Women Digging in Field with Snow'],"March-April, 1890","Zurich, Foundation E.G. Bührle",695,1923
+762,http://www.vggallery.com/painting/p_0702.htm,['Old Man in Sorrow (On the Threshold of Eternity)'],"April-May, 1890","Otterlo, Kröller-Müller Museum",702,1967
+763,http://www.vggallery.com/painting/p_0676.htm,['Pine Trees and Dandelions in the Garden of Saint-Paul Hospital'],"April-May, 1890","Otterlo, Kröller-Müller Museum",676,1970
+764,http://www.vggallery.com/painting/p_0748.htm,['Poppies and Butterflies'],"April-May, 1890","Amsterdam, Van Gogh Museum",748,2013
+765,http://www.vggallery.com/painting/p_0749.htm,['Roses and Beetle'],"April-May, 1890","Amsterdam, Van Gogh Museum",749,2012
+766,http://www.vggallery.com/painting/p_0597.htm,['Wild Roses'],"April-May, 1890","Amsterdam, Van Gogh Museum",597,2011
+767,http://www.vggallery.com/painting/p_0633.htm,"['Good Samaritan (after Delacroix), The']","May, 1890","Otterlo, Kröller-Müller Museum",633,1974
+768,http://www.vggallery.com/painting/p_0807.htm,['Green Wheat Fields'],"May, 1890","Washington, D.C.: National Gallery of Art",807,1980
+769,http://www.vggallery.com/painting/p_0704.htm,['Landscape with Couple Walking and Crescent Moon'],"May, 1890","Sao Paulo, Museu de Arte de Sao Paulo",704,1981
+770,http://www.vggallery.com/painting/p_0672.htm,['Meadow in the Garden of Saint-Paul Hospital'],"May, 1890","London, National Gallery",672,1975
+771,http://www.vggallery.com/painting/p_0677.htm,"['Raising of Lazarus (after Rembrandt), The']","May, 1890","Amsterdam, Van Gogh Museum",677,1972
+772,http://www.vggallery.com/painting/p_0682.htm,['Still Life: Pink Roses in a Vase'],"May, 1890","New York, The Metropolitan Museum of Art",682,1979
+773,http://www.vggallery.com/painting/p_0680.htm,['Still Life: Vase with Irises'],"May, 1890","New York, The Metropolitan Museum of Art",680,1978
+774,http://www.vggallery.com/painting/p_0678.htm,['Still Life: Vase with Irises Against a Yellow Background'],"May, 1890","Amsterdam, Van Gogh Museum",678,1977
+775,http://www.vggallery.com/painting/p_0681.htm,['Still Life: Vase with Roses'],"May, 1890","Washington, National Gallery of Art",681,1976
+776,http://www.vggallery.com/painting/p_0683.htm,['Road with Cypress and Star'],"12-15 May, 1890","Otterlo, Kröller-Müller Museum",683,1982
+777,http://www.vggallery.com/painting/p_0820.htm,['Blossoming Chestnut Branches'],"May, 1890","Zurich, Foundation E.G. Bührle",820,2010
+778,http://www.vggallery.com/painting/p_0752.htm,['Chestnut Tree in Blossom'],"May, 1890","Otterlo, Kröller-Müller Museum",752,1991
+779,http://www.vggallery.com/painting/p_0751.htm,['Chestnut Trees in Blossom'],"May, 1890","South America, private collection",751,1992
+780,http://www.vggallery.com/painting/p_0755.htm,"[""Doctor Gachet's Garden in Auvers""]","May, 1890","Paris, Musée d'Orsay",755,1999
+781,http://www.vggallery.com/painting/p_0794.htm,"['House of Pere Eloi, The']","May, 1890","Switzerland, private collection",794,2002
+782,http://www.vggallery.com/painting/p_0791.htm,"['House of Pere Pilon, The']","May, 1890",Collection Niarchos,791,1995
+783,http://www.vggallery.com/painting/p_0805.htm,['Houses in Auvers'],"May, 1890","Boston, Museum of Fine Arts",805,1989
+784,http://www.vggallery.com/painting/p_0750.htm,['Thatched Cottages'],"May, 1890","St. Petersburg, Hermitage",750,1984
+785,http://www.vggallery.com/painting/p_0797.htm,['View of Vessenots Near Auvers'],"May, 1890","Madrid, Museo Thyssen-Bornemisza",797,2003
+786,http://www.vggallery.com/painting/p_0802.htm,['Village Street in Auvers'],"May, 1890","Helsinki, Ateneum Art Museum",802,2001
+787,http://www.vggallery.com/painting/p_0795.htm,['Village Street and Steps in Auvers with Figures'],"Late May, 1890","St. Louis, The Saint Louis Art Museum",795,2111
+788,http://www.vggallery.com/painting/p_0806.htm,['Farmhouse with Two Figures'],"May-June, 1890","Amsterdam, Van Gogh Museum",806,2017
+789,http://www.vggallery.com/painting/p_0799.htm,['View of Auvers'],"May-June, 1890","Amsterdam, Van Gogh Museum",799,2004
+790,http://www.vggallery.com/painting/p_0796.htm,['Village Street and Steps in Auvers with Two Figures'],"May-June, 1890","Japan, private collection",796,2110
+791,http://www.vggallery.com/painting/p_0821.htm,['Blossoming Acacia Branches'],"June, 1890","Stockholm, National Museum",821,2015
+792,http://www.vggallery.com/painting/p_0785.htm,['Child with Orange'],"June, 1890","Switzerland, private collection",785,2057
+793,http://www.vggallery.com/painting/p_0789.htm,"['Church at Auvers, The']","June, 1890","Paris, Musée d'Orsay",789,2006
+794,http://www.vggallery.com/painting/p_0822.htm,['Cows (after Jordaens)'],"July, 1890","Lille, Musée des Beaux-Arts",822,2095
+795,http://www.vggallery.com/painting/p_0767.htm,['Ears of Wheat'],"June, 1890","Amsterdam, Van Gogh Museum",767,2034
+796,http://www.vggallery.com/painting/p_0636.htm,['Field with Poppies'],"June, 1890","The Hague, Kunstmuseum Den Haag (on loan)",636,2027
+797,http://www.vggallery.com/painting/p_0759.htm,['Houses in Auvers'],"June, 1890","Toledo (Oh.), The Toledo Museum of Art, Gift of Edward Drummond Libbey",759,1988
+798,http://www.vggallery.com/painting/p_0760.htm,['Landscape with Carriage and Train in the Background'],"June, 1890","Moscow, Pushkin Museum",760,2019
+799,http://www.vggallery.com/painting/p_0770.htm,['Landscape with the Chateau of Auvers at Sunset'],"June, 1890","Amsterdam, Van Gogh Museum",770,2040
+800,http://www.vggallery.com/painting/p_0518.htm,"['Little Arlesienne, The']","June, 1890","Otterlo, Kröller-Müller Museum",518,2056
+801,http://www.vggallery.com/painting/p_0740.htm,"['Little Stream, The']","June, 1890","New York, private collection",740,2022
+802,http://www.vggallery.com/painting/p_0772.htm,['Marguerite Gachet at the Piano'],"June, 1890","Basle, Offentliche Kunstsammlung, Kunstmuseum Basel",772,2048
+803,http://www.vggallery.com/painting/p_0756.htm,['Marguerite Gachet in the Garden'],"June, 1890","Paris, Musée d'Orsay",756,2005
+804,http://www.vggallery.com/painting/p_0786.htm,['Portrait of Adeline Ravoux'],"June, 1890","Cleveland, The Cleveland Museum of Art",786,2036
+805,http://www.vggallery.com/painting/p_0768.htm,['Portrait of Adeline Ravoux'],"June, 1890","Switzerland, private collection",768,2035
+806,http://www.vggallery.com/painting/p_0769.htm,['Portrait of Adeline Ravoux'],"June, 1890",Private collection,769,2037
+807,http://www.vggallery.com/painting/p_0754.htm,['Portrait of Doctor Gachet'],"June, 1890","Paris, Musée d'Orsay",754,2014
+808,http://www.vggallery.com/painting/p_0753.htm,['Portrait of Doctor Gachet'],"June, 1890",Private collection,753,2007
+809,http://www.vggallery.com/painting/p_0598.htm,['Still Life: Glass with Carnations'],"June, 1890",Private collection,598,2043
+810,http://www.vggallery.com/painting/p_0589.htm,['Still Life: Glass with Wild Flowers'],"June, 1890",Private collection,589,2033
+811,http://www.vggallery.com/painting/p_0764.htm,['Still Life: Japanese Vase with Roses and Anemones'],"June, 1890","Paris, Musée d'Orsay",764,2045
+812,http://www.vggallery.com/painting/p_0595.htm,['Still Life: Pink Roses'],"June, 1890","Copenhagen, Ny Carlsberg Glyptotek",595,2009
+813,http://www.vggallery.com/painting/p_0280.htm,['Still Life: Red Poppies and Daisies'],"June, 1890","Beijing, Collection Wang Zhongjun",280,2032
+814,http://www.vggallery.com/painting/p_0599.htm,['Still Life: Vase with Flower and Thistles'],"June, 1890","Hakone, Pola Museum of Art",599,2044
+815,http://www.vggallery.com/painting/p_0764a.htm,['Still Life: Vase with Rose-Mallows'],"June, 1890","Amsterdam, Van Gogh Museum",764a,2046
+816,http://www.vggallery.com/painting/p_0792.htm,['Thatched Cottages at Cordeville'],"June, 1890","Paris, Musée d'Orsay",792,1987
+817,http://www.vggallery.com/painting/p_0758.htm,['Thatched Cottages in Jorgus'],"June, 1890",Private collection,758,2016
+818,http://www.vggallery.com/painting/p_0784.htm,['Two Children'],"June, 1890","Washington, D.C.: Collection Joseph Albritton",784,2052
+819,http://www.vggallery.com/painting/p_0783.htm,['Two Children'],"June, 1890","Paris, Musée d'Orsay",783,2051
+820,http://www.vggallery.com/painting/p_0773.htm,['Undergrowth with Two Figures'],"June, 1890","Cincinnati, The Cincinnati Art Museum",773,2041
+821,http://www.vggallery.com/painting/p_0762.htm,['Vineyards with a View of Auvers'],"June, 1890","St. Louis, The Saint Louis Art Museum",762,2020
+822,http://www.vggallery.com/painting/p_0804.htm,['Wheat Field at Auvers with White House'],"June, 1890","Washington, The Phillips Collection",804,2018
+823,http://www.vggallery.com/painting/p_0775.htm,['Wheat Fields near Auvers'],"June, 1890","Vienna, Österreichische Galerie Belvedere",775,2038
+824,http://www.vggallery.com/painting/p_0766.htm,"['White House at Night, The']","June, 1890","St. Petersburg, Hermitage",766,2031
+825,http://www.vggallery.com/painting/p_0763.htm,['Wild Flowers and Thistles in a Vase'],"June, 1890",Private collection,763,2030
+826,http://www.vggallery.com/painting/p_0787.htm,['Young Man with Cornflower'],"June, 1890","Dallas, private collection",787,2050
+827,http://www.vggallery.com/painting/p_0765.htm,"[""Daubigny's Garden""]","Mid-June, 1890","Amsterdam, Van Gogh Museum",765,2029
+828,http://www.vggallery.com/painting/p_0788.htm,['Young Girl Standing Against a Background of Wheat'],"Late June, 1890","Washington, National Gallery of Art",788,2055
+829,http://www.vggallery.com/painting/p_0774.htm,['Young Peasant Woman with Straw Hat Sitting in the Wheat'],"Late June, 1890",Private collection,774,2053
+830,http://www.vggallery.com/painting/p_0814.htm,['Garden in Auvers'],"June-July, 1890?",Paris: Collection Pierre Vernes and Edith Vernes-Karaoglan,814,2107
+831,http://www.vggallery.com/painting/p_0790.htm,['Auvers Town Hall on 14 July 1890'],"July, 1890","Spain, private collection",790,2108
+832,http://www.vggallery.com/painting/p_0798.htm,['Bank of the Oise at Auvers'],"July, 1890","Detroit, The Detroit Institute of Arts",798,2021
+833,http://www.vggallery.com/painting/p_0777.htm,"[""Daubigny's Garden""]","July, 1890","Basel, Collection R. Staechelin",777,2105
+834,http://www.vggallery.com/painting/p_0776.htm,"[""Daubigny's Garden""]","July, 1890","Hiroshima, Hiroshima Museum of Art",776,2104
+835,http://www.vggallery.com/painting/p_0809.htm,['Field with Wheat Stacks'],"July, 1890","Riehen/Basel, Switzerland--Fondation Beyeler",809,2098
+836,http://www.vggallery.com/painting/p_0761.htm,"['Fields, The']","July, 1890","Zurich, private collection",761,2120
+837,http://www.vggallery.com/painting/p_0817.htm,"['Grove, The']","July, 1890",Private collection,817,1319
+838,http://www.vggallery.com/painting/p_0563.htm,['Haystacks under a Rainy Sky'],"July, 1890","Otterlo, Kröller-Müller Museum",563,2121
+839,http://www.vggallery.com/painting/p_0811.htm,['Landscape at Auvers in the Rain'],"July, 1890","Cardiff, National Museum of Wales",811,2096
+840,http://www.vggallery.com/painting/p_0782.htm,['Plain Near Auvers'],"July, 1890","Munich, Neue Pinakothek",782,2099
+841,http://www.vggallery.com/painting/p_0771.htm,['Sheaves of Wheat'],"July, 1890","Dallas, Dallas Museum of Art--the Wendy and Emery Reves Collection",771,2125
+842,http://www.vggallery.com/painting/p_0793.htm,['Thatched Cottages by a Hill'],"July, 1890","London, Tate Gallery",793,2114
+843,http://www.vggallery.com/painting/p_0780.htm,['Thatched Sandstone Cottages in Chaponval'],"July, 1890","Zurich, Kunsthaus Zurich",780,2115
+844,http://www.vggallery.com/painting/p_0816.htm,['Tree Roots and Trunks'],"July, 1890","Amsterdam, Van Gogh Museum",816,2113
+845,http://www.vggallery.com/painting/p_0819.htm,['Two Women Crossing the Fields'],"July, 1890","San Antonio, Marion Koogler MacNay Art Museum",819,2112
+846,http://www.vggallery.com/painting/p_0800.htm,['View of Auvers with Church'],"July, 1890","Providence, Rhode Island School of Design",800,2122
+847,http://www.vggallery.com/painting/p_0778.htm,['Wheat Field Under Clouded Sky'],"July, 1890","Amsterdam, Van Gogh Museum",778,2097
+848,http://www.vggallery.com/painting/p_0808.htm,['Wheat Field with Cornflowers'],"July, 1890","Riehen/Basel, Switzerland, Fondation Beyeler",808,2118
+849,http://www.vggallery.com/painting/p_0779.htm,['Wheat Field with Crows'],"July, 1890","Amsterdam, Van Gogh Museum",779,2117
+850,http://www.vggallery.com/painting/p_0812.htm,['Wheat Fields'],"July, 1890","Private collection, United States",812,2101
+851,http://www.vggallery.com/painting/p_0781.htm,['Wheat Fields at Auvers Under Clouded Sky'],"July, 1890","Pittsburgh, Carnegie Museum of Art",781,2102
+852,http://www.vggallery.com/painting/p_0801.htm,['Wheat Fields with Auvers in the Background'],"July, 1890","Geneva, Musée d'Art et d'Histoire",801,2123
+853,http://www.vggallery.com/painting/p_0559.htm,['Wheat Stacks with Reaper'],"July, 1890","Toledo (Oh.), The Toledo Museum of Art, Gift of Edward Drummond Libbey",559,1479
