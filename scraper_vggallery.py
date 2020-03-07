@@ -29,8 +29,6 @@ for link in soupG.findAll('a', attrs={'href': re.compile("by_period")}):
     bpPage = requests.get(newPage)
     soupBG = BeautifulSoup(bpPage.text, 'html.parser')
     allrow = soupBG.find_all("tr")
-    a = allrow[0]
-    a.decompose()
     updatedrow = soupBG.findAll("tr")
     for row in updatedrow:
         if row.get_text().find('Painting Name') == -1:
