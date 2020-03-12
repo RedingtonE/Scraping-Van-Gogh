@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This is a webscraper designed to save a repository of Van Gogh's paintings
 """
 
 import pandas as pd
